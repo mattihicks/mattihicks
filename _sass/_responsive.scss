@@ -1,0 +1,31 @@
+@media screen and (max-width: 690px) {
+.intro {
+	font-size: 7vw;
+}
+
+.row {
+    margin-top: 32px;
+}
+
+.projectGrid h4 {
+    margin-top: 16px;
+    margin-left: 0;
+    margin-bottom: 4px;
+    font-size: 6vw;
+	}
+
+
+.projectGrid p {
+    margin-left: 0;
+}
+
+.about p {
+    margin-left: 0;
+
+}
+
+html .page-content-alternative {
+	margin-top: 32px;
+	padding: 16px 0;
+}
+}
