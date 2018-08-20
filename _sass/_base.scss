@@ -449,3 +449,24 @@ height: 100%;
 .listTitle {
     font-family: $base-font-family-sectionTitle;
 }
+
+.site-link {
+    margin-top: 24px;
+    font-size: 1.22222rem;
+    line-height: 1.88889rem;
+}
+
+.captionText {
+    font-size: 14px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.projectMocks {
+    margin-top: 12px;
+}
+
+.projectMocks img {
+    border: 1px solid #EDEDED;
+    margin-bottom: 16px;
+}

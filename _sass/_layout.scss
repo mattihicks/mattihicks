@@ -58,7 +58,7 @@
     font-size: 1.22222rem; 
     line-height: 1.88889rem;
     margin-top:32px;
-    margin-bottom: 40px;
+    margin-bottom: 16px;
 
 }
 
@@ -195,12 +195,13 @@
  */
 .page-content {
     // padding: $spacing-unit 0;
-    // margin-top: 20px;
+    margin-top: 32px;
+    margin-bottom: 32px;
 }
 
 .page-content-alternative {
     padding: 4px 0;
-    margin-top: 72px;
+    // margin-top: 24px;
 }
 
 .page-heading {
