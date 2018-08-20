@@ -1,172 +1,224 @@
 <!DOCTYPE html>
 <html>
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body>
-
-
-
-    {% include header.html %}
+<body>
 
 
-    <div class="page-content">
 
-      <div class="wrapper">
-         <div class="page-title">{{ page.title }}</div>
-         <div class="page-subtitle">{{ page.date }}</div>
-         <div class="page-intro">{{ page.intro }}</div>
+  {% include header.html %}
 
-         <div class="grid-display">
-          <div class="row projectBuilt">
-    <div class="col-1">
-    </div>
-                <div class="col-11">
 
-        <h2 class="projectTitleBig">EF Finland</h2>
-                              </div>
+  <div class="page-content">
+
+    <div class="wrapper">
+     <div class="page-title">{{ page.title }}</div>
+     <div class="page-subtitle">{{ page.date }}</div>
+     <div class="page-intro">{{ page.intro }}</div>
+     <div class="site-link"><a href="https://www.ef.fi/languagesabroad" target="_blank">Explore the site</a></div>
+
+     <div class="grid-display">
+      <div class="row projectBuilt">
+        <div class="col-1">
+        </div>
+        <div class="col-11">
+
+         <!--      <h2 class="projectTitleBig">EF Finland</h2> -->
+       </div>
+     </div>
+
+     <div class="row projectBody">
+      <div class="col-1">
       </div>
-
-                <div class="row projectBody">
-                    <div class="col-1">
-    </div>
-    <div class="col-11 projectIntro">
+<!--     <div class="col-11 projectIntro">
       <p>I designed the online booking process for EF’s Language Finland market, creating an end-to-end journey where users are encouraged to discover great content that makes them excited to travel abroad.</p>
     </div>
-           
+  -->
 
-      </div>
-    </div>
+</div>
+</div>
 
 
 
-      </div>
-    </div>
+</div>
+</div>
 
-     <img class="full-image" src="../assets/images/Artboard_ef5-1.jpg" alt="ef design examples">
+<!-- <img class="full-image" src="../assets/images/Artboard_ef5-1.jpg" alt="ef design examples"> -->
 
-        <div class="page-content">
+<div class="page-content-alternative">
 
-      <div class="wrapper">
-<div class="grid-display">
-          <div class="row projectBody">
-             <div class="col-2">
-             </div>
-                <div class="col-8">
+  <div class="wrapper">
+    <div class="grid-display">
+      <div class="row projectBody">
+       <div class="col-2">
+       </div>
+       <div class="col-8">
 
         <h2 class="projectTitle">Context</h2>
-        <p>In 2016 almost 100,000 EF brochures were mailed out throughout Finland to convince prospective students to learn a language abroad. The following year, senior leadership decided to cut brochures for Finland entirely and make a team of one creative director, two product designers (including me), one visual designer, and three engineers responsible for redesigning the product websites with a focus on online booking.
-<br/><br/>
-We were given four months to research, design, build, and launch the product before the sales season began.</p>
-                              </div>
+        <p>In 2016 the EF Finland website’s primary purpose was to get customers phone numbers through a price quote or a brochure request. The sales person would then call the customer and try to convince them to travel broad.</p>
+
+        <p>We were asked by senior leadership to develop a new digital model, where the website informs potential customers about the product and allows them to easily book online, without directly interfacing with a salesperson. We were also asked to focus on mobile.</p>
+
+        <p>As one of two products designers, I was involved in every aspect of this project.</p>
       </div>
     </div>
-     
   </div>
+
+</div>
 </div>
 
-  <div class="page-content-alternative">
-        <div class="wrapper">
-          <div class="grid-display">
-          <div class="row projectBody">
-             <div class="col-2">
-             </div>
-                <div class="col-8">
+<div class="page-content">
+  <div class="wrapper">
+    <div class="grid-display">
+      <div class="row projectBody">
+       <div class="col-2">
+       </div>
+       <div class="col-8">
 
-        <h2 class="projectTitle">Discovery and research</h2>
+        <h2 class="projectTitle">Design research</h2>
+        <p>After senior leadership gave us the short brief, I had to understand if their assumption - that people would book an expensive language course directly online - was valid. I flew to Helsinki and conducted research with customers and the sales team, learning about students motivations to learn a language abroad and how the website could help them make the decision easier.</p>
         <p>
-After senior leadership gave us the short brief, we set out to understand what problems we’re actually tackling and to prioritize them according to user and business needs.
-<br/><br/>
-I had to understand if their assumption - that people would book an expensive language course directly online - was valid. After sketching user flows, I created wireframe prototypes and tested them with Finnish users and the sales team to better understand how users would be more likely to book directly online.
-</p>
-                              </div>
+        From this research, I sketched user flows and created wireframe prototypes and then tested them in the Helsinki sales office to better understand how users would be more likely to book directly online.</p>
       </div>
     </div>
+  </div>
 
+</div>
+</div>
+<img class="full-image" src="../assets/images/secondBoard.jpg" alt="ef design wireframes">
+
+
+<div class="page-content-alternative">
+
+  <div class="wrapper">
+    <div class="grid-display">
+      <div class="row projectBody projectBuilt">
+       <div class="col-2">
+       </div>
+       <div class="col-8">
+
+        <h2 class="projectTitle">UX Design</h2>
+        <p>I wanted to allow the user to move seamlessly throughout the website, feeling immersed in the possibility of traveling abroad without getting bogged down in age category and travel type selections (group travel and independent travel).</p>
+<p>
+To accomplish this, the selections are made directly as the user is navigating through the site to explore destinations.</p>
         </div>
       </div>
-      <img class="full-image" src="../assets/images/secondBoard.jpg" alt="ef design wireframes">
-
-        <div class="page-content">
-
-      <div class="wrapper">
-<div class="grid-display">
-          <div class="row projectBody projectBuilt">
-             <div class="col-2">
-             </div>
-                <div class="col-8">
-
-        <h2 class="projectTitle">What we built</h2>
-<p>Based on what we learned in user research, here are some of the insights we implemented into the final design:
-<br/><br/>
-1. Students and their parents are likely to book directly online if the website content is tailored to their specific age group, if they can easily find the information they need (for example, regarding insurance or accommodation), and if they could easily have their questions answered through in-app messaging.
-<br/><br/>
-2. We found that most of our customers spend several months to a year before deciding to travel abroad. For these users, we implemented a feature that allows you to save and compare study abroad trips over time called "My Trips".
-<br/><br/>
-3. To encourage people to book a course online, we learned that price transparency and flexibility is key. I designed the booking flow so that the price is on every step after they decide when they want to travel. I also worked with the business so that users can reserve a course and cancel within two weeks - rather than directly book and be locked into an expensive trip.
-<br/><br/>
-As one of two product designers, I was involved in every aspect of the site. The areas where I had the most impact were: customer insights and design ideation, content strategy, the school experience pages, and the booking flows (see case study).
-<br/><br/>
-<a href="https://www.ef.fi/languagesabroad/#/">Explore the site</a>.</p>
-                              </div>
-      </div>
     </div>
-     
+
+    <div class="grid-display">
+      <div class="row projectMocks">
+       <div class="col-4">
+        <img src="../assets/images/testing2_UX_finland_grid1.jpg">
+        <p class="captionText">User taps 'Discover destinations' CTA</p>
+       </div>
+       <div class="col-4">
+                <img src="../assets/images/testing_UX_finland_grid2.jpg">
+        <p class="captionText">First time at the site the user is given the option of selecting an age group to show destinations available for that specific age group</p>
+       </div>
+              <div class="col-4">
+                <img src="../assets/images/testing_UX_finland_grid3.jpg">
+        <p class="captionText">User can now explore destinations, but still be able to change the age at any time in their journey</p>
+       </div>
+    
   </div>
 </div>
-  <div class="page-content-alternative">
-        <div class="wrapper">
-          <div class="grid-display">
-          <div class="row projectBody">
-             <div class="col-2">
-             </div>
-                <div class="col-8">
+
+    <div class="grid-display">
+      <div class="row projectBody projectBuilt">
+       <div class="col-2">
+       </div>
+       <div class="col-8">
+
+        <h2 class="projectTitle">Interaction Design</h2>
+        <p>Since we were using </p>
+<p>
+To accomplish this, we made these selections directly in context of the user’s assumed goal - to simply explore destinations.</p>
+        </div>
+      </div>
+    </div>
+
+
+<div class="page-content">
+
+  <div class="wrapper">
+    <div class="grid-display">
+      <div class="row projectBody projectBuilt">
+       <div class="col-2">
+       </div>
+       <div class="col-8">
+
+        <h2 class="projectTitle">What we built</h2>
+        <p>Based on what we learned in user research, here are some of the insights we implemented into the final design:
+          <br/><br/>
+          1. Students and their parents are likely to book directly online if the website content is tailored to their specific age group, if they can easily find the information they need (for example, regarding insurance or accommodation), and if they could easily have their questions answered through in-app messaging.
+          <br/><br/>
+          2. We found that most of our customers spend several months to a year before deciding to travel abroad. For these users, we implemented a feature that allows you to save and compare study abroad trips over time called "My Trips".
+          <br/><br/>
+          3. To encourage people to book a course online, we learned that price transparency and flexibility is key. I designed the booking flow so that the price is on every step after they decide when they want to travel. I also worked with the business so that users can reserve a course and cancel within two weeks - rather than directly book and be locked into an expensive trip.
+          <br/><br/>
+          As one of two product designers, I was involved in every aspect of the site. The areas where I had the most impact were: customer insights and design ideation, content strategy, the school experience pages, and the booking flows (see case study).
+          <br/><br/>
+          <a href="https://www.ef.fi/languagesabroad/#/">Explore the site</a>.</p>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+<div class="page-content-alternative">
+  <div class="wrapper">
+    <div class="grid-display">
+      <div class="row projectBody">
+       <div class="col-2">
+       </div>
+       <div class="col-8">
 
         <h2 class="projectTitle">Impact</h2>
         <p>
 
-We have shifted the company paradigm of what makes an online experience successful: instead of asking potential customers for their address to send a content-rich brochure, the internal conversation has shifted to creating a content-rich website that promotes booking online. Senior leadership has asked us to expand this work into other markets, which will begin in the coming months.</p>
-                              </div>
+        We have shifted the company paradigm of what makes an online experience successful: instead of asking potential customers for their address to send a content-rich brochure, the internal conversation has shifted to creating a content-rich website that promotes booking online. Senior leadership has asked us to expand this work into other markets, which will begin in the coming months.</p>
       </div>
     </div>
+  </div>
 
-        </div>
-      </div>
-      <img class="full-image" src="../assets/images/Artboard_ef2.jpg" alt="ef design more design examples">
-
-
-    <div class="grid-display">
-          <div class="row projectBody">
-             <div class="col-3">
-              <a href="/education-first"><img src="../assets/images/EF_finland_nav_item.png" alt="ef nav link"></a>
-             </div>
-             <div class="col-3">
-              <a href="/novartis"><img src="../assets/images/NOVARTIS-2.png" alt="novartis nav link"></a>
-             </div>
-             <div class="col-3">
-              <a href="/ultrasound"><img src="../assets/images/ultrasound-2.png" alt="ultrasound nav link"></a>
-             </div>
-             <div class="col-3">
-              <a href="/dogstay"><img src="../assets/images/dogStay-2.png" alt="dogstay nav link"></a>
-             </div>
-           </div>
-         </div>
-    
-           <div class="page-content">
-
-      <div class="wrapper">
-
-           {{ content }}
-        {% include footer.html %}
-      </div>
-    </div>          
+</div>
+</div>
+<img class="full-image" src="../assets/images/Artboard_ef2.jpg" alt="ef design more design examples">
 
 
+<div class="grid-display">
+  <div class="row projectBody">
+   <div class="col-3">
+    <a href="/education-first"><img src="../assets/images/EF_finland_nav_item.png" alt="ef nav link"></a>
+  </div>
+  <div class="col-3">
+    <a href="/novartis"><img src="../assets/images/NOVARTIS-2.png" alt="novartis nav link"></a>
+  </div>
+  <div class="col-3">
+    <a href="/ultrasound"><img src="../assets/images/ultrasound-2.png" alt="ultrasound nav link"></a>
+  </div>
+  <div class="col-3">
+    <a href="/dogstay"><img src="../assets/images/dogStay-2.png" alt="dogstay nav link"></a>
+  </div>
+</div>
+</div>
+
+<div class="page-content">
+
+  <div class="wrapper">
+
+   {{ content }}
+   {% include footer.html %}
+ </div>
+</div>          
 
 
-    {% if jekyll.environment == 'production' %}
-    {% include analytics.html %}
-    {% endif %}
-  </body>
+
+
+{% if jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
+</body>
 
 </html>
