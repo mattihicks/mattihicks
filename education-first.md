@@ -42,7 +42,7 @@ permalink: education-first/
        </div>
        <div class="col-8">
         <h2 class="projectTitle">Design research</h2>
-        <p>After senior leadership gave us the short brief, I had to understand if their assumption - that people would book an expensive language course directly online - was valid. I flew to Helsinki and conducted research with customers and the sales team, learning about students motivations to learn a language abroad and how the website could help them make the decision easier.</p>
+        <p>After senior leadership gave us the short brief, I had to understand if their assumption - that people would book an expensive language course directly online - was valid. I flew to Helsinki and did a deep dive with customers and the sales team, learning about students and parents and the sales process, students' motivations to learn a language abroad, and how technology could help them make the decision to book easier.</p>
         <p>
         From this research, I sketched user flows and created wireframe prototypes and then tested them in the Helsinki sales office to better understand how users would be more likely to book directly online.</p>
       </div>
