@@ -201,7 +201,7 @@ permalink: education-first/
  </div>
  <div class="col-8">
   <img src="../assets/images/filtering5.gif">
-  <p class="captionText">A simple Framer prototype I created for testing</p>
+  <p class="captionText">A simple prototype I created for user testing. Framer and HTML/CSS/JS are my go-to tools for prototyping</p>
 </div>
 <div class="col-2">
 </div>
