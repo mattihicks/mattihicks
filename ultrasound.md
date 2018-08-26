@@ -61,13 +61,13 @@ permalink: ultrasound/
         <p>We built a simplified ultrasound application that utilized an Interson USB probe attached to a netbook. The most basic interactions were prioritized first, such as filling in the patient record and performing a simple scan. We iterated until radiologists, sonographers, and midwives both in the U.S. and Uganda verified that the device could successfully diagnose the three most common complications.</p>
         <p>We were able to get the cost of the device to $3,500 using a modular off-the-shelf approach rather than an all-in-one system. We also added an integrated contextual help feature that helped supplement the limited sonography training received by the midwives.</p>
         <img class="projectImage" src="../assets/images/midwifeFieldworkUganda.jpg" alt="uganda field work">
-        <h3 class="projectImage">Scanning fetus head</h3>
+        <h4 class="projectImage">Scanning fetus head</h4>
         <img src="../assets/images/ultrasound11.png" alt="scanning fetus head">
-        <h3 class="projectImage">Browsing ultrasound topics</h3>
+        <h4 class="projectImage">Browsing ultrasound topics</h4>
         <img src="../assets/images/ultrasound2.png" alt="browing topics">
-        <h3 class="projectImage">Learning topic about sonography</h3>
+        <h4 class="projectImage">Learning topic about sonography</h4>
         <img src="../assets/images/ultrasound12.png" alt="learning sonography">
-        <h3 class="projectImage">Comparing ultrasound images</h3>
+        <h4 class="projectImage">Comparing ultrasound images</h4>
         <img src="../assets/images/ultrasound13.png" alt="comparing images">
       </div>
     </div>

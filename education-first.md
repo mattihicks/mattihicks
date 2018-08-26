@@ -58,29 +58,32 @@ permalink: education-first/
 
   <div class="wrapper">
     <div class="grid-display">
-      <div class="row projectBody projectBuilt">
+      <div class="row projectBuilt">
        <div class="col-2">
        </div>
        <div class="col-8">
-        <h2 class="projectTitle">What we built:</h2>
-        <p>Based on what we learned in user research, here are some of the insights we implemented into the final design:</p>
-        <p>1. Students and their parents are likely to book directly online if the website content is tailored to their specific age group.</p>
+        <h2 class="projectTitle">Design process</h2>
+        <p>Research was ongoing throughout the design process.</p>
+        <h4 class="projectSectionTitle">1. Combining products, age group selection</h4>
+        <p>The first biggest obstacle we encountered was that we had two different products with separate websites: independent travel and group travel. Within these products existed five different age groups. The company asked us to simplify the products digitally by combining them within one user flow.</p>
+        <p>We experimented with presenting the age selections on a splash page, within the flow directly after the homepage, or just before the booking flow. During research we learned that users were most likely to book if pictures and content were tailored to them specifically. </p>
+        <p>After testing, we decided to put the age group selection after the homepage but just before destinations are presented within their flow, so that the destinations shown are specifically for them, with content that is tailored for that age group.</p>
         </div>
       </div>
     </div>
     <div class="grid-display">
-      <div class="row projectMocks">
-       <div class="col-4">
+      <div class="row projectMocks projectBuilt">
+       <div class="col-4 column-4-grid">
         <img src="../assets/images/testing2_UX_finland_grid1.jpg">
-                <p class="captionText">User taps 'Explore destinations'</p>
+                <p class="captionText">1. All users, all ages, tap 'Explore destinations'</p>
        </div>
-       <div class="col-4">
+       <div class="col-4 column-4-grid">
                 <img src="../assets/images/testing2_UX_finland_grid2.jpg">
-        <p class="captionText">First time visitor is given the option of selecting an age group within the context of travel type</p>
+        <p class="captionText">2. A first time visitor is given the option of selecting an age group within the context of travel type</p>
        </div>
-              <div class="col-4">
+              <div class="col-4 column-4-grid">
                 <img src="../assets/images/testing2_UX_finland_grid3.jpg">
-        <p class="captionText">User can now explore destinations, but still be able to change the age at any time in their journey</p>
+        <p class="captionText">3. A user can now see destinations for their age group while still being able to change the age at any time in their journey</p>
        </div>
     
   </div>
@@ -90,15 +93,126 @@ permalink: education-first/
        <div class="col-2">
        </div>
        <div class="col-8">
-<p>
-          2. We found that most of our customers spend several months to a year before deciding to travel abroad. For these users, we implemented a feature that allows you to save and compare study abroad trips over time called "My Trips".</p>
-<p>
-          3. To encourage people to book a course online, we learned that price transparency and flexibility is key. I designed the booking flow so that the price is on every step after they decide when they want to travel. I also worked with the business so that users can reserve a course and cancel within two weeks - rather than directly book and be locked into an expensive trip.</p>
+        <h4 class="projectSectionTitle">2. Booking flows</h4>
+        <p>Another challenge were the booking flows, which I couldn't change completely because they had to rely on an existing API from the global company (over 53 countries). But in research, I set aside our technical constraints and asked simply: when the user is ready to book, what do they want to do first?</p>
+        <p>This question and subsequent answers, along considering the technical constraints, led me through several booking flow iterations, three of which I prototyped and tested with users:</p>
         </div>
       </div>
     </div>
+    <div class="grid-display">
+      <div class="row projectBuilt">
+        <h5>Concept 1: Choosing course dates via a calendar, then selecting a course</h5>
+       <div class="col-12">
+        <img src="../assets/images/bookingEF_concept1.png">
+       </div>
+    
+  </div>
+        <div class="row">
+        <h5>Concept 2:  Choosing a course, then selecting dates via a calendar</h5>
+       <div class="col-12">
+       <img src="../assets/images/bookingEF_concept2.png">
+       </div>
+     </div>
+               <div class="row">
+        <h5>Concept 3: Choosing dates with buttons instead of calendar, then making a course selection</h5>
+       <div class="col-12">
+        <img src="../assets/images/bookingEF_concept3.png">
+       </div>
+     </div>
+                    <div class="row projectBuilt">
+        <h5>Winning design:</h5>
+       <div class="col-4 column-4-grid">
+        <img src="../assets/images/bookingFlow/ILS_bookingstepOne.jpg">
+                  <p class="captionText">User testing showed that users preferred to see the most accurate total price upfront, therefore to show this price the booking flow begins with the option to first select a course</p>
+       </div>
+              <div class="col-4 column-4-grid">
+        <img src="../assets/images/bookingFlow/ILS_bookingStepTwo.jpg">
+                          <p class="captionText">A traditional calendar view did not test well, as not all of our courses are available for all dates and classes start on Mondays. Therefore, a button date selection tested best</p>
+       </div>
+              <div class="col-4 column-4-grid">
+        <img src="../assets/images/bookingFlow/ILS_bookingStepThree.jpg">
+                                  <p class="captionText">After a month is tapped, the user can select a start date</p>
+       </div>
+     </div>
+    <div class="row projectBuilt">
+       <div class="col-4 column-4-grid">
+        <img src="../assets/images/bookingFlow/ILS_bookingStepFour.jpg">
+                                         <p class="captionText">We have tried to visually highlight the most popular number of weeks by students, but the business prefers that all weeks are given equal weight </p>
+       </div>
+              <div class="col-4 column-4-grid">
+        <img src="../assets/images/bookingFlow/ILS_bookingStepFive.jpg">
+                     <p class="captionText">Tapping on a week number shows price as well as allows user to select that number of week</p>
+       </div>
+              <div class="col-4 column-4-grid">
+        <img src="../assets/images/bookingFlow/ILS_bookingStepFive_5Weeks.jpg">
+                             <p class="captionText">Users can browse different weeks, comparing prices</p>
+       </div>
+     </div>
+                         <div class="row projectBuilt">
+       <div class="col-4 column-4-grid">
+        <img src="../assets/images/bookingFlow/ILS_bookingStepSix.jpg">
+             <p class="captionText">Users wanted to be able to quickly glance at what the different course types, accommodation options, and insurance options were. Therefore, I added an information icon to relevant content </p>
+       </div>
+              <div class="col-4 column-4-grid">
+                        <img src="../assets/images/bookingFlow/stepNine.jpg">
+                     <p class="captionText">I worked with the business so that users can reserve a course and cancel within two weeks - rather than directly book and be locked into an expensive trip</p>
+       </div>
+              <div class="col-4 column-4-grid">
+        <img src="../assets/images/bookingFlow/ILS_bookingStepSeven.jpg">
+                             <p class="captionText">Originally we put insurance add-ons before the trip summary, but analytics showed this slowed users down</p>
+       </div>
+     </div>
+                         <div class="row projectBuilt">
+       <div class="col-4 column-4-grid">
+        <img src="../assets/images/bookingFlow/stepTen.jpg">
+                                     <p class="captionText">I elimated high school name and home address fields, working with the sales managers to minimize the number of required fields so the user can more easily go through the flow</p>
+       </div>
+              <div class="col-4 column-4-grid">
+        <img src="../assets/images/bookingFlow/stepTwelve.jpg">
+        <p class="captionText">Recognizing that the trip is quite expensive, we offer a low-threshold of €150 downpayment and flexible payment options</p>
+       </div>
+              <div class="col-4 column-4-grid">
+        <img src="../assets/images/bookingFlow/stepThirteen.jpg">
+                <p class="captionText">Payment form</p>
+       </div>
+     </div>
+                         <div class="row">
+                                 <div class="col-4 column-4-grid">
+       </div>
+       <div class="col-4">
+        <img src="../assets/images/bookingFlow/stepDone.jpg">
+        <p class="captionText">In the future, we will add share options on the last step</p>
+       </div>
+                                        <div class="col-4">
+       </div>
+     </div>
+    
+<div class="grid-display">
+      <div class="row projectBody projectBuilt">
+       <div class="col-2">
+       </div>
+       <div class="col-8">
+        <h4 class="projectSectionTitle">3. Destination page filters</h4>
+        <p>I learned from the sales team that many customers have difficulty choosing the right destinaton. To help users make the right choice, I worked with customers and the sales team to come up with filter selections to help users narrow their picks, depending on destination type (beach, city, or college town), activitity (swimming, volleyball, dance), and et cetera...</p>
+        </div>
+      </div>
+                               <div class="row projectBuilt">
+                                 <div class="col-2">
+       </div>
+       <div class="col-8">
+        <img src="../assets/images/filtering5.gif">
+                <p class="captionText">A simple Framer prototype I created for testing</p>
+       </div>
+                                        <div class="col-2">
+       </div>
+     </div>
+    </div>
+
   </div>
 </div>
+
+
+  </div>
 
 <div class="page-content">
   <div class="wrapper">

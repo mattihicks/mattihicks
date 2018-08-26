@@ -284,6 +284,8 @@ ul li .social-media {
         margin-top: 0px;
     } &.projectBuilt {
         margin-top: 40px;
+    } h4 {
+            font-family: $font-name-bold;
     }
 }
 
@@ -438,6 +440,7 @@ height: 100%;
     font-size: 14px;
     text-align: center;
     margin: 0 auto;
+    margin-top: 8px;
 }
 
 .projectMocks {
@@ -456,3 +459,4 @@ height: 100%;
 .rowMockups {
     margin-top: -32px;
 }
+
