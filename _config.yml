@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Matti Hicks - Portfolio
+title: Matti Hicks - Designer based in Zurich
 email: mattihixx@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Portfolio for Matti Hicks, product designer based in Zurich, Switzerland
