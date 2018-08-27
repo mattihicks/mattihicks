@@ -2,7 +2,7 @@
 layout: project
 title: EF Finland
 date: 2017 - 2018
-intro: I am currently working as a product designer in EF's central creative studio, the global branding and product design team responsible for transforming the future of the company through business design initiatives. </br><br/>For EF Finland, I researched for and designed an end-to-end journey where students are encouraged to discover great content that makes them excited to book a trip online.
+intro: I am currently working as a UX designer in EF's central creative studio, the global branding and product design team responsible for transforming the future of the company through business design initiatives. </br><br/>For EF Finland, I researched for and designed an end-to-end journey where students are encouraged to discover great content that makes them excited to book a trip online.
 permalink: education-first/
 ---
 
@@ -26,7 +26,7 @@ permalink: education-first/
         <h2 class="projectTitle">Context</h2>
         <p>In 2016 the EF Finland website’s primary purpose was to get customers phone numbers through a price quote or a brochure request. The sales person would then call the customer and try to convince them to travel broad.</p>
         <p>We were asked by senior leadership to develop a new digital model, where the website informs potential customers about the product and allows them to easily book online, without directly interfacing with a salesperson. In addition, we were asked to focus on mobile.</p>
-        <p>As one of two products designers, I was involved in every aspect of this project.</p>
+        <p>As one of two UX designers, I was involved in every aspect of this project.</p>
       </div>
     </div>
   </div>
