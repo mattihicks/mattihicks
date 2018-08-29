@@ -9,7 +9,6 @@ permalink: education-first/
 <div class="page-content">
 
   <div class="wrapper">
-
     <div class="site-link"><a href="https://www.ef.fi/languagesabroad" target="_blank">Explore the site</a> </div>
 
   </div>
@@ -26,7 +25,7 @@ permalink: education-first/
         <h2 class="projectTitle">Context</h2>
         <p>In 2016 the EF Finland website’s primary purpose was to get customers phone numbers through a price quote or a brochure request. The sales person would then call the customer and try to convince them to travel broad.</p>
         <p>We were asked by senior leadership to develop a new digital model, where the website informs potential customers about the product and allows them to easily book online, without directly interfacing with a salesperson. In addition, we were asked to focus on mobile.</p>
-        <p>As one of two UX designers, I was involved in every aspect of this project.</p>
+        <p>As one of two UX designers and primary researcher, I was involved in every aspect of this project.</p>
       </div>
     </div>
   </div>
@@ -42,7 +41,7 @@ permalink: education-first/
        </div>
        <div class="col-8">
         <h2 class="projectTitle">Design research</h2>
-        <p>After senior leadership gave us the short brief, I had to understand if their assumption - that people would book an expensive language course directly online - was valid. I flew to Helsinki and did a deep dive with customers and the sales team, learning about students and parents and the sales process, students' motivations to learn a language abroad, and how technology could help them make the decision to book easier.</p>
+        <p>After senior leadership gave us the brief, I had to understand if their assumption - that people would book an expensive language course directly online - was valid. I flew to Helsinki and did a deep dive with customers and the sales team, learning about students and parents and the sales process, students' motivations to learn a language abroad, and how technology could help them make the decision to book easier.</p>
         <p>
         From this research, I sketched user flows and created wireframe prototypes and then tested them in the Helsinki sales office to better understand how users would be more likely to book directly online.</p>
       </div>
@@ -66,8 +65,8 @@ permalink: education-first/
         <p>Research was ongoing throughout the design process.</p>
         <h4 class="projectSectionTitle">1. Combining products, age group selection</h4>
         <p>The first biggest obstacle we encountered was that we had two different products with separate websites: independent travel and group travel. Within these products existed five different age groups. The company asked us to simplify the products digitally by combining them within one user flow.</p>
-        <p>We experimented with presenting the age selections on a splash page, within the flow directly after the homepage, or just before the booking flow. During research we learned that users were most likely to book if content (pictures, descriptions) was tailored to them specifically. </p>
-        <p>After testing, we decided to put the age group selection after the homepage but just before destinations are presented within the flow, so that the destinations shown are specifically for them, with content that is tailored for that age group.</p>
+        <p>We experimented with presenting the age selections on a splash page, within the flow directly after the homepage, or just before the booking flow on individual destination pages. During research we learned that users were most likely to book if content (pictures, descriptions) was tailored to them specifically. </p>
+        <p>After testing and iterations, we decided to put the age group selection after the homepage but just before destinations are presented within the flow, so that the destinations shown are specifically for them, with content that is tailored for that age group.</p>
       </div>
     </div>
   </div>
@@ -95,7 +94,7 @@ permalink: education-first/
    <div class="col-8">
     <h4 class="projectSectionTitle">2. Booking flows</h4>
     <p>Another challenge were the booking flows, which I couldn't change completely because they had to rely on an existing API from the global company (over 53 countries). But in research, I set aside our technical constraints and asked simply: when the user is ready to book, what do they want to do first?</p>
-    <p>This question and subsequent answers, along considering the technical constraints, led me through several booking flow iterations, three of which I prototyped and tested with users:</p>
+    <p>This question and further research led me through several booking flow iterations, three of which I prototyped and tested with users:</p>
   </div>
 </div>
 </div>
@@ -151,7 +150,7 @@ permalink: education-first/
 <div class="row projectBuilt">
  <div class="col-4 column-4-grid">
   <img src="../assets/images/bookingFlow/ILS_bookingStepSix.jpg">
-  <p class="captionText">Users wanted to be able to quickly glance at what the different course types, accommodation options, and insurance options were. Therefore, I added an information icon to relevant content </p>
+  <p class="captionText">Users wanted to be able to quickly glance at what the different course types, accommodation options, and insurance options were. Therefore, I added an info icon to relevant content </p>
 </div>
 <div class="col-4 column-4-grid">
   <img src="../assets/images/bookingFlow/stepNine.jpg">
@@ -172,18 +171,8 @@ permalink: education-first/
   <p class="captionText">Recognizing that the trip is quite expensive, we offer a low-threshold of €150 downpayment and flexible payment options</p>
 </div>
 <div class="col-4 column-4-grid">
-  <img src="../assets/images/bookingFlow/stepThirteen.jpg">
-  <p class="captionText">Payment form</p>
-</div>
-</div>
-<div class="row">
- <div class="col-4 column-4-grid">
- </div>
- <div class="col-4">
   <img src="../assets/images/bookingFlow/stepDone.jpg">
   <p class="captionText">In the future, we will add share options on the last step</p>
-</div>
-<div class="col-4">
 </div>
 </div>
 
@@ -193,10 +182,11 @@ permalink: education-first/
    </div>
    <div class="col-8">
     <h4 class="projectSectionTitle">3. Destination page filters</h4>
-    <p>I learned from the sales team that many customers have difficulty choosing the right destinaton. To help users make the right choice, I worked with customers and the sales team to come up with filter selections to help users narrow their picks, depending on destination type (beach, city, or college town), activitity (swimming, volleyball, dance), and more...</p>
+    <p>I learned from the sales team that many customers have difficulty choosing the right destinaton. To help users make the right choice, I worked with customers and the sales team to understand how we can help customers with this decision making process. After conducting a workshop with the sales team and interviews, I came up with filter selections to help users narrow their top picks, depending on destination type (beach, city, or college town), activities (swimming, volleyball, dance), and more...</p>
+    <p>I'll write more about this process soon.</p>
   </div>
 </div>
-<div class="row projectBuilt">
+<div class="row projectBuilt prototypeFilters">
  <div class="col-2">
  </div>
  <div class="col-8">
