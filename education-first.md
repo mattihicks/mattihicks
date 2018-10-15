@@ -62,7 +62,7 @@ permalink: education-first/
        </div>
        <div class="col-8">
         <h2 class="projectTitle">Design process</h2>
-        <p>Research was ongoing throughout the design process.</p>
+        <p>Research was ongoing throughout the design process. Here are some of the decisions we made:</p>
         <h4 class="projectSectionTitle">1. Combining products, age group selection</h4>
         <p>The first biggest obstacle we encountered was that we had two different products with separate websites: independent travel and group travel. Within these products existed five different age groups. The company asked us to simplify the products digitally by combining them within one user flow.</p>
         <p>We experimented with presenting the age selections on a splash page, within the flow directly after the homepage, or just before the booking flow on individual destination pages. During research we learned that users were most likely to book if content (pictures, descriptions) was tailored to them specifically. </p>
@@ -182,7 +182,7 @@ permalink: education-first/
    </div>
    <div class="col-8">
     <h4 class="projectSectionTitle">3. Destination page filters</h4>
-    <p>I learned from the sales team that many customers have difficulty choosing the right destinaton. To help users make the right choice, I worked with customers and the sales team to understand how we can help customers with this decision making process. After conducting a workshop with the sales team and interviews, I came up with filter selections to help users narrow their top picks, depending on destination type (beach, city, or college town), activities (swimming, volleyball, dance), and more...</p>
+    <p>I learned from the sales team that many customers have difficulty choosing the right destinaton. To help users make the right choice, I worked with customers and the sales team to understand how we can help customers with this decision making process. After interviews, I came up with filter selections to help users narrow their top picks, depending on destination type (beach, city, or college town), activities (swimming, volleyball, dance), and more...</p>
     <p>I'll write more about this process soon.</p>
   </div>
 </div>
