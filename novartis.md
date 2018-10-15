@@ -21,8 +21,6 @@ permalink: novartis/
         <p>2. outdated systems and technology</p>
         <p>3. team competitiveness and lack of sharing incentivization </p> 
         <p>We first prioritized 3) lack of team sharing, because it seemed at the time like low-hanging fruit. We first researched labs that were well-networked, shared information throughout the organization, and demonstrated a healthy work environment, meaning: lab heads who were active in internal forums and encouraged collaboration among their lab scientists.</p>
-        <p>Based on this research and the technologies that the teams were already using, we then created a prototype called the 'Activity Stream' that was focused on sharing information about colleagues, instruments, and publications among a few highly active project teams. What the prototype lacked most was providing updates that directly related to the scientists' work, such as information on new compound structures or up-to-date information about the instruments they were using. We then utilized other APIs for the activity stream and saw an uptick in use.</p>
-        <p>I was involved with this project from the very beginning, from the user research to designing early concept wireframes, mockups, and prototyping the UI in HTML/CSS/JS for the user feedback sessions, and also learning how to use the javascript library D3 to visualize scientific connections.</p>
       </div>
     </div>
   </div>
