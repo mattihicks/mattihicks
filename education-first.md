@@ -23,8 +23,8 @@ permalink: education-first/
        </div>
        <div class="col-8">
         <h2 class="projectTitle">Context</h2>
-        <p>In 2016 the EF Finland website’s primary purpose was to get customers phone numbers through a price quote or a brochure request. The sales person would then call the customer and try to convince them to travel broad.</p>
-        <p>We were asked by senior leadership to develop a new digital model, where the website informs potential customers about the product and allows them to easily book online, without directly interfacing with a salesperson. In addition, we were asked to focus on mobile.</p>
+        <p>In 2016 the EF Finland website’s primary CTAs were focused on getting customers' contact information through a price quote or a brochure request. The sales person would then call the customer with the goal of helping them to book a language course abroad.</p>
+        <p>We were asked by senior leadership to develop a new digital model, where the website informs potential customers about the product with the primary focus of the user booking directly online. In addition, we were asked to focus on mobile.</p>
         <p>As one of two UX designers and primary researcher, I was involved in every aspect of this project.</p>
       </div>
     </div>
@@ -212,7 +212,7 @@ permalink: education-first/
        </div>
        <div class="col-8">
         <h2 class="projectTitle">Impact</h2>
-        <p>We have shifted the company paradigm of what makes an online experience successful: instead of asking potential customers for their phone numbers and addresses, the internal conversation has shifted to creating a content-rich website that promotes booking directly online. In addition, one year after launch, customers are booking twice as much online as they are over the phone.</p>
+        <p>We have shifted the company paradigm of what makes an online experience successful: instead of asking potential customers for contact information through primary CTAs, the internal conversation has shifted to creating a content-rich website that promotes booking directly online. In addition, one year after launch, customers are booking twice as much online as they did in the previous year.</p>
         <p>
         Senior leadership has asked us to expand this work into other markets, which will begin in the coming months.</p>
       </div>
