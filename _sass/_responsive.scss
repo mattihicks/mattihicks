@@ -36,4 +36,14 @@ html .page-content-alternative {
 .column-4-grid {
     padding-bottom: 40px;
 }
+
+.projectNav {
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+}
+
+.projectNav .col-2 {
+    text-align:center;
+}
 }
