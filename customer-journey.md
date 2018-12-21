@@ -20,7 +20,7 @@ permalink: customer-journey/
         <li class="objectiveResearchList">Map out the EF staff interactions throughout the EF customer journey</li>
         <li class="objectiveResearchList">Identify pain-points and design opportunities for the project moving forward</li>
       </ul>
-      <p>I led this research project, collaborating with a designer for some of the exercises as well as a field expert.</p>
+      <p>I led all activities for this research project, collaborating with a designer for some of the exercises as well as a field expert.</p>
       </div>
     </div>
   </div>
@@ -39,7 +39,7 @@ permalink: customer-journey/
         <p>After working with stakeholders on the research objectives, I decided to utilize semi-structured interviews with the following sample groups to meet the research objectives:</p>
         <ul>
           <li>
-        Ten to fifteen <span style="font-family:GT-Walsheim-Regular">student interviews</span> with those aged 16-18 who have experienced a language course abroad within the past 12 months</li>
+        Ten to fifteen <span style="font-family:GT-Walsheim-Regular">student interviews</span> with those between 16-18 years old who have experienced a language course abroad within the past 12 months</li>
         <li class="objectiveResearchList">Four to five <span style="font-family:GT-Walsheim-Regular">parent interviews</span> who have booked and sent their child on a language course abroad within the past 12 months</li>
         <li class="objectiveResearchList">Eight to ten <span style="font-family:GT-Walsheim-Regular">sales coordinator</span> and <span style="font-family:GT-Walsheim-Regular">customer service team interviews</span> who help customers throughout the language trip</li>
       </ul>
