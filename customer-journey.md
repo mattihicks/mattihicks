@@ -2,7 +2,7 @@
 layout: project
 title: Customer journey mapping
 date: 2018
-intro: After leading the research for a <a href="https://mattihicks.com/education-first">new digital model</a>, I was asked to conduct exit interviews focusing on the customer experience. I reframed the research ask and got stakeholder buy-in to instead trace the entire customer journey across two markets, as previous research indicated the upcoming product roadmap needed to consider all digital touchpoints for us to move forward in an impactful way. <br/><br/>For brevity, I've combined the two different markets for this case study as the methods used and process followed were similar.
+intro: After researching and designing for a <a href="https://mattihicks.com/education-first">new digital model</a>, I was asked to conduct exit interviews focusing on the customer experience. I reframed the research ask and got stakeholder buy-in to instead trace the entire customer journey across two markets, as previous research indicated the upcoming product roadmap needed to consider all digital touchpoints for us to move forward in an impactful way. <br/><br/>For brevity, I've combined the two different markets for this case study as the methods used and process followed were similar.
 permalink: customer-journey/
 ---
 
