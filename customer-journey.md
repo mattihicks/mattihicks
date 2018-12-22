@@ -80,7 +80,7 @@ permalink: customer-journey/
        <div class="col-8">
         <h2 class="projectTitle">Questions asked, notes taken</h2>
         <h4 class="projectSectionTitle">1. Customer interviews</h4>
-<p>Customer interviews was partly influenced by the <a href="https://jtbd.info/">JTBD theory</a> to get to the heart of how the digital touchpoints impact the customer experience. Example questions asked:</p>
+<p>Customer interviews was partly influenced by the <a href="https://hbr.org/2016/09/know-your-customers-jobs-to-be-done">JTBD theory</a> to get to the heart of how the digital touchpoints impact the customer experience. Example questions asked:</p>
 <p><span style="font-family:GT-Walsheim-Regular-Italic">What was the conversation like when you talked about learning a language abroad with your parents? With your friends?</span></p> 
 <p><span style="font-family:GT-Walsheim-Regular-Italic">To parent: what were your initial thoughts about your daughter studying abroad?</span></p>
               <p><span style="font-family:GT-Walsheim-Regular-Italic">How did you contact friends and family back home?</span></p>
