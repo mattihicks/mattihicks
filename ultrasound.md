@@ -2,7 +2,7 @@
 layout: project
 title: Ultrasound for Ugandan midwives
 date: 2010 - 2012
-intro: UX lead on a Bill & Melinda Gates-sponsored project focused on designing a low-cost ultrasound device for midwives in developing regions, specifically for women working in rural environments.
+intro: UX researcher and designer on a Bill & Melinda Gates-sponsored project focused on building a low-cost ultrasound device for midwives in developing regions, specifically for women working in rural environments.
 permalink: ultrasound/
 ---
 
@@ -17,7 +17,7 @@ permalink: ultrasound/
        <div class="col-8">
        	<h2 class="projectTitle">Context and problem</h2>
         <p>Maternal morality rates in sub-Saharan Africa are unacceptably high. Many factors contribute to this, including the near absence of ultrasound technology, which can potentially decrease deaths by identifying common pregnancy complications.</p>
-        <p>In 2010 Seattle radiologist Dr. Rob Nathan began donating GE portable ultrasound machines costing $20,000 to small, rural villages in Uganda. This price was unsustainable and the midwives had to train on these devices in Kampala, taking them away for long periods from their desperately needed work in village clinics. I, along with three others in the human-computer interaction and computer science departments at the University of Washington in Seattle, decided to help Dr. Rob Nathan design a low cost portable ultrasound device.</p>
+        <p>In 2010 Seattle radiologist Dr. Rob Nathan began donating GE portable ultrasound machines costing $20,000 to small, rural villages in Uganda. This price was unsustainable and the midwives had to train on these devices in Kampala, taking them away for long periods from their desperately needed work in village clinics. I, along with Alexis Hope, Wayne Gerard, Pratik Prasad, and Dr. Beth Kolko, decided to help Dr. Rob Nathan design a low cost portable ultrasound device.</p>
         <p>We were asked to build the device for under $5,000 and to create a simplified UI focused on three common prenatal complications:</p>
         <p>1) Multiple gestations (twins)</p>
         <p>2) placenta previa</p>
@@ -38,9 +38,10 @@ permalink: ultrasound/
        <div class="col-2">
        </div>
        <div class="col-8">
-       	<h2 class="projectTitle">Field research</h2>
-        <p>The team first sent surveys to midwives working on the current GE machines, as well as visited local Seattle hospitals to learn about ultrasound technology. We then traveled to Uganda and conducted fieldwork in southern rural Uganda, meeting with midwives doing their best to deliver babies and keep mothers alive.</p>
-        <p>We learned that the midwives often worked 14 to 18 hours a day without reliable electricity. The donated GE machines were very complicated, and when minor technical issues occurred, the midwives put the device in a corner or closet without further use.</p>
+       	<h2 class="projectTitle">Surveys, classes, and field research</h2>
+        <p>The team first mailed surveys to midwives working on the current GE machines in Kampala and in rural southern Uganda. We also conducted <span style="font-family:GT-Walsheim-Medium">contextual inquires</span> at local Seattle hospitals to learn about ultrasound technology.</p>
+        <p>We then traveled to Uganda and visited an ultrasound institute in Kampala, where we <span style="font-family:GT-Walsheim-Medium">attended ultrasound classes</span> with midwives. We also visited several clinics, <span style="font-family:GT-Walsheim-Medium">interviewing doctors, midwives, and mothers</span> to understand the health care system in Uganda.</p>
+<p> We then traveled south and conducted <span style="font-family:GT-Walsheim-Medium">fieldwork</span> in the Isingiro District, meeting with midwives who often worked 14 to 18 hours a day without reliable electricity. The donated GE machines were very complicated, and when minor technical issues occurred, the midwives put the device in a corner or closet without further use.</p>
       </div>
     </div>
   </div>
@@ -57,10 +58,10 @@ permalink: ultrasound/
        <div class="col-2">
        </div>
        <div class="col-8">
-       	<h2 class="projectTitle">What we built</h2>
-        <p>We built a simplified ultrasound application that utilized an Interson USB probe attached to a netbook. The most basic interactions were prioritized first, such as filling in the patient record and performing a simple scan. We iterated until radiologists, sonographers, and midwives both in the U.S. and Uganda verified that the device could successfully diagnose the three most common complications.</p>
-        <p>We were able to get the cost of the device to $3,500 using a modular off-the-shelf approach rather than an all-in-one system. We also added an integrated contextual help feature that helped supplement the limited sonography training received by the midwives.</p>
-        <img class="projectImage" src="../assets/images/midwifeFieldworkUganda.jpg" alt="uganda field work">
+       	<h2 class="projectTitle">Actions taken based on this research</h2>
+        <p>Based on research and resource constraints, we built a simplified ultrasound application that utilized an Interson USB probe attached to a netbook. The most basic interactions were prioritized first, such as filling in the patient record and performing a simple scan. We iterated until radiologists, sonographers, and midwives both in the U.S. and Uganda verified that the device could successfully diagnose the three most common complications.</p>
+        <p>We were able to get the cost of the device to $3,500 using a modular off-the-shelf approach rather than an all-in-one system. We also added an integrated contextual help feature that helped supplement the limited sonography training received by the midwives, helping to answer diagnostic questions when a radiologist isn't available.</p>
+        <img src="../assets/images/midwife2.jpg" alt="uganda field work">
         <h4 class="projectImage">Scanning fetus head</h4>
         <img src="../assets/images/ultrasound11.png" alt="scanning fetus head">
         <h4 class="projectImage">Browsing ultrasound topics</h4>

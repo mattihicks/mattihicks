@@ -386,6 +386,21 @@ html .page-content-alternative {
     margin-bottom: 12px;
 }
 
+.sectionTitle {
+    font-family: $header-font-family;
+    margin-bottom: 12px;
+    padding-bottom: 8px;
+ &.researchWork {
+     background: url(../assets/images/researchWork_squigglyline.svg) 0 100% no-repeat;
+     } &.designWork {
+        background: url(../assets/images/designWork_squigglyline.svg) 0 100% no-repeat;
+     }   &.aboutMe {
+        background: url(../assets/images/aboutMe_squigglyline.svg) 0 100% no-repeat;
+        }  &.publications {
+        background: url(../assets/images/publications_squigglyline.svg) 0 100% no-repeat;
+    }
+}
+
 .projectBody, .row {
     font-family: $font-name-body;
     font-size: 1.1111111111111112rem;

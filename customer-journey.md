@@ -39,9 +39,9 @@ permalink: customer-journey/
         <p>After working with stakeholders on the research objectives, I decided to utilize semi-structured interviews with the following sample groups to meet the research objectives:</p>
         <ul>
           <li>
-        Ten to fifteen <span style="font-family:GT-Walsheim-Regular">student interviews</span> with those between 16-18 years old who have experienced a language course abroad within the past 12 months</li>
-        <li class="objectiveResearchList">Four to five <span style="font-family:GT-Walsheim-Regular">parent interviews</span> who have booked and sent their child on a language course abroad within the past 12 months</li>
-        <li class="objectiveResearchList">Eight to ten <span style="font-family:GT-Walsheim-Regular">sales coordinator</span> and <span style="font-family:GT-Walsheim-Regular">customer service team interviews</span> who help customers throughout the language trip</li>
+        Ten to fifteen <span style="font-family:GT-Walsheim-Medium">student interviews</span> with those between 16-18 years old who have experienced a language course abroad within the past 12 months</li>
+        <li class="objectiveResearchList">Four to five <span style="font-family:GT-Walsheim-Medium">parent interviews</span> who have booked and sent their child on a language course abroad within the past 12 months</li>
+        <li class="objectiveResearchList">Eight to ten <span style="font-family:GT-Walsheim-Medium">sales coordinator</span> and <span style="font-family:GT-Walsheim-Medium">customer service team interviews</span> who help customers throughout the language trip</li>
       </ul>
       <p>Along with my research team, I also conducted an affinity diagramming workshop and a sales blueprint exercise with marketing, sales, and customer service representatives to provide additional context to the interview data.</p>
       </div>
@@ -108,13 +108,13 @@ your next trip?</span></p>
        <div class="col-8">
         <h2 class="projectTitle">Results and action steps</h2>
         <p>I can't disclose my findings for confidentiality reasons, but here's some of the outcomes and action items I took:</p>
-        <p>1. I created a <span style="font-family:GT-Walsheim-Regular">customer journey diagram with eight stages</span> that the customer experiences throughout their EF journey. We are currently building on this research to go deeper within the eight stages I defined. In addition to the stages, I also outlined opportunities to address discovered painpoints within each stage.</p>
+        <p>1. I created a <span style="font-family:GT-Walsheim-Medium">customer journey diagram with eight stages</span> that the customer experiences throughout their EF journey. We are currently building on this research to go deeper within the eight stages I defined. In addition to the stages, I also outlined opportunities to address discovered painpoints within each stage.</p>
                 <h5>Customer journey (blurred to protect confidentiality)</h5>
         <img src="../assets/images/customer_journey_example.jpg"/>
         <p></p>
         <p></p>
-        <p>2. I am collaborating with the product owner as this research directly impacts the <span style="font-family:GT-Walsheim-Regular">product roadmap</span>; we've uncovered multiple product opportunities for 2019, and most likely beyond.</p>
-        <p>3. <span style="font-family:GT-Walsheim-Regular">Feature and content improvements</span> are in planning, development, or testing stages, including providing more information about what the student will experience as well as an increased emphasis on authenticity in the product.</p>
+        <p>2. I am collaborating with the product owner as this research directly impacts the <span style="font-family:GT-Walsheim-Medium">product roadmap</span>; we've uncovered multiple product opportunities for 2019, and most likely beyond.</p>
+        <p>3. <span style="font-family:GT-Walsheim-Medium">Feature and content improvements</span> are in planning, development, or testing stages, including providing more information about what the student will experience as well as an increased emphasis on authenticity in the product.</p>
       </div>
     </div>
   </div>
