@@ -80,7 +80,7 @@ permalink: price-quote/
 <p><span style="font-family:GT-Walsheim-Regular-Italic">Did you fill out a price quote before or after you looked browsed a destination page?</span></p> 
 <p>We received more than one hundred responses and I shared them with my project team. Sidenote: as we received over 25% response rate, I wish I'd made the survey longer (taking perhaps 8 minutes instead of 3) and asked more questions, although this may have led to a decrease in response rate.</p>
 
-<p>Although I cannot discuss the actual findings for confidentiality reasons, we discovered an interested theme in about half of the responses about why people filled out a price quotation form.</p>
+<p>Although I cannot discuss the actual findings for confidentiality reasons, we discovered an interested theme in about half of the responses about why people filled out a price quote form.</p>
 <p>I needed to probe deeper into this insight.</p>
       </div>
     </div>
@@ -101,8 +101,8 @@ permalink: price-quote/
         <img src="../assets/images/susan_pq.jpg"/><br/><br/>
         <p>To avoid hindsight bias, I recruited people who have requested a price quotation within the past week. Each of these interview recruits had responses that I wanted to go deeper into. Example questions asked:</p>
 <p><span style="font-family:GT-Walsheim-Regular-Italic">Do you remember seeing the price on the website? If so, where?</span></p>
-<p><span style="font-family:GT-Walsheim-Regular-Italic">Was there information on the site that you weren't getting that made you want to fill out a price quotation form?</span></p> 
-<p><span style="font-family:GT-Walsheim-Regular-Italic">Did you tell anyone you ordered a price quotation? If so, who? What did they say?</span></p> 
+<p><span style="font-family:GT-Walsheim-Regular-Italic">Was there information on the site that you weren't getting that made you want to fill out a price quote form?</span></p> 
+<p><span style="font-family:GT-Walsheim-Regular-Italic">Did you tell anyone you ordered a price quote? If so, who? What did they say?</span></p> 
       </div>
     </div>
   </div>
@@ -121,7 +121,7 @@ permalink: price-quote/
         <p>As a result of this research, I collaborated with the product owner to plan a list of experiments to improve people's ability to get an exact price directly from the site, without decreasing lead generation. This includes:</p>
         <ul><li class="objectiveResearchList">New components on the destination page</li>
           <li class="objectiveResearchList">A/B testing CTA copy</li>
-          <li class="objectiveResearchList">A/B testing price quotation forms to decrease drop off rates</li></ul>
+          <li class="objectiveResearchList">A/B testing price quote form versions to decrease drop off rates</li></ul>
         <p>This research also builds on other <a href="https://mattihicks.com/customer-journey">research efforts</a> which are trying to bring a more personable and authentic experience to the product. I am currently testing an chat bot, which is introduced by a video from one of our language consultants letting the customer know that they are available to help them at any time:</p>
         <br/>
       </div>
