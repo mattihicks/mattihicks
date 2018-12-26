@@ -59,8 +59,9 @@ permalink: customer-journey/
        </div>
        <div class="col-8">
         <h2 class="projectTitle">Involving the project team</h2>
-        <p>It's critical to involve the project team and other stakeholders in the research process as much as possible - they are owners of the process, too. Everyone on the team is invited to contribute to the research - from formulating the research questions to conducting the user interviews to ideating on what kind of deliverables the team can expect. In addition, each day I am out on the field, I write in and share a field journal where I jot down sentiments or thoughts from the research day with a fair warning that we cannot make conclusions yet on what we are discovering - but it helps the team to "peer in" to what's ongoing if they're busy.</p>
-        <p>Here's a picture of a designer (far left) with me (right) during one of our sessions:</p>
+        <p>It's critical to involve the project team and other stakeholders in the research process as much as possible - they are owners of the process, too. Everyone on the team is invited to contribute to the research - from formulating the research questions to conducting the user interviews to ideating on what kind of deliverables the team can expect.</p>
+        <p>In addition, each day I am out on the field, I jot down sentiments or thoughts from the research day and share these with the team with a fair warning that we cannot make conclusions yet on what I'm discovering - but it helps the team to "peer in" to what's ongoing if they're busy.</p>
+        <p>Here's a picture of a designer (far left) with me (far right) during one of our sessions:</p>
       </div>
     </div>
   </div>
