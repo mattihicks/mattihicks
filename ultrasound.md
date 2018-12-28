@@ -87,16 +87,23 @@ permalink: ultrasound/
        <div class="col-2">
        </div>
        <div class="col-8">
-        <h2 class="projectTitle">Impact</h2>
+       <h2 class="projectTitle">Output and impact</h2>
         <p>
-        I authored three academic papers along with team members Professor Beth Kolko, Dr. Rob Nathan, Alexis Hope, Pratik Prasad, and Wayne Gerard. Ultimately, our work broadened the conversation in the medical community about the needs for simplified lower cost medical technology.</p>
-        <p>For more about this work, watch this presentation from HCI professor and now Shift Labs CEO Beth Kolko:</p>
-        <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/1HqZXMXrJsg" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+        I co-authored three academic papers:</p>
+        <ol>
+          <li class="objectiveResearchList">W. Brunette; W. Gerard; <span style="font-family:GT-Walsheim-Medium">M. Hicks</span>; A. Hope; R. Anderson; G. Borriello; B. Kolko; R. Nathan. <a href="../assets/papers/Ultrasound-Dev2010.pdf">"Portable Antenatal Ultrasound Platform for Village Midwives."</a> ACM Computing for Development (DEV), December 2010.</li>
+          <li class="objectiveResearchList">A. Hope; <span style="font-family:GT-Walsheim-Medium">M. Hicks</span>; W. Gerard; P. Prasad; K. Saville; W. Brunette; L. Ham; J. Keh; R. Anderson; G. Borriello; B. Kolko; R. Nathan. <a href="../assets/papers/UltrasoundAssistantIUI4DR.pdf">"Designing an Intelligent Medical Assistant for Diagnostic Ultrasound."</a>  International Conference on Intelligent User Interfaces (IUI), February 2011.</li>
+          <li class="objectiveResearchList">W. Brunette; <span style="font-family:GT-Walsheim-Medium">M. Hicks</span>; A. Hope; G. Ruddy; R. Anderson; B. Kolko. <a href="../assets/papers/IEEEGHTCUltrasound2011.pdf">"Reducing Maternal Mortality: An Ultrasound System for Village Midwives."</a> IEEE Global Humanitarian Technology Conference (GHTC), October 2011.</li>
+        </ol>
+<p>
+         Ultimately, our work broadened the conversation in the medical community about the needs for simplified lower cost medical technology. GE, Philips, and other medical device companies took notice. In addition, our HCI professor started a company called <a href="http://www.shiftlabs.com/">Shift Labs</a> focusing on developing low cost medical technology.</p>
+        <p>For more about this work, please watch this TEDx presentation from HCI professor and now Shift Labs CEO Beth Kolko:</p>
       </div>
     </div>
   </div>
 
 </div>
+<div class="embed-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/1HqZXMXrJsg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 </div>
 
 
