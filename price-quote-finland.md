@@ -36,8 +36,8 @@ permalink: price-quote/
        <div class="col-8">
         <h2 class="projectTitle">Context matters</h2>
         <p>To ground the research in the company knowledge we already had, I spoke with stakeholders and dug into archives to discover where it came from and why stakeholders held strong beliefs in its effectiveness for lead conversion. I wanted to undertand why the price quote was a quantitative success and what tests they have done to improve it over the years.</p>
-        <p>I then poured over quantitative reports showing how the price quotation CTA compared to other CTAs on the site and also created an analytics dashboard to see current drop off rates within each step of the form.</p>
-<p>This work helped me to build a solid research foundation on, so that moving forward I could work within the context of the problem space as well as communicate the research findings in an effective way.</p>
+        <p>I then poured over quantitative reports showing how the price quotation CTA compared to other CTAs on the site and also created an analytics dashboard to see current drop off rates within each step of the form filling process.</p>
+<p>This work helped me to build a solid research foundation on, so that moving forward I could work within the context of the problem space as well as communicate the research findings in a more effective way.</p>
       </div>
     </div>
   </div>
