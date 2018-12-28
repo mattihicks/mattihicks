@@ -39,8 +39,8 @@ in drug discovery.</p>
        <div class="col-8">
         <h2 class="projectTitle">Projects</h2>
         <p>As the lead user researcher and designer, I was involved in a number of projects related to improving how people communicated and shared information with each other. Along with the product manager and tech lead, I developed a longterm product strategy and roadmap on how best to improve collaboration throughout the company from results of a large organizational survey, workshops, and interviews. </p>
-        <p>In addition, I developed a series of personas based on this research to help the project team stay human-focused, rather than technology-focused during project and sprint planning discussions.</p>
-        <p>Projects that fell under our domain: scientist profiles, lab profiles, activity stream, and our internal video channel.</p>
+        <p>In addition, I developed a series of personas based on this research to help the project team stay human-focused, rather than technology-focused throughout the duration of the project.</p>
+        <p>Projects that fell under our domain: <span style="font-family:GT-Walsheim-Medium">scientist profiles, lab profiles, activity stream, and our internal video channel</span>.</p>
         <p>For confidentiality reasons, I can't go indepth into these research areas. But I can provide you with a glimpse of methods I used as well as a prototype we tested.</p>
   </div>
 </div>
