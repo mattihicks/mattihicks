@@ -2,7 +2,7 @@
 layout: project
 title: International research
 date: 2018
-intro: After researching for a <a href="https://mattihicks.com/education-first">new digital model</a>, I identified the customer journeys across Spain and Finland. <br/><br/>For brevity, I've combined the two different markets for this case study as the methods used and process followed were similar.
+intro: After researching for a <a href="https://mattihicks.com/education-first">new digital model</a>, I identified the customer journeys across Spain and Finland for EF Languages Abroad, a company that sends students around the world to learn languages. <br/><br/>For brevity, I've combined the two different markets for this case study as the methods used and process followed were similar.
 permalink: customer-journey/
 ---
 
