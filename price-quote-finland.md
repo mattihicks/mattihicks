@@ -1,8 +1,8 @@
 ---
 layout: project
-title: Price quote in Finland
+title: Surveys and interviews on a pricing CTA
 date: 2018
-intro: To increase the number of leads of the <a href="https://mattihicks.com/education-first">new EF digital model</a>, our team was asked to implement a price quote form although the price breakdown is provided on the site. <br/><br/>Five months after this feature was introduced, I was asked to research why customers ordered a price quote on our new digital model.
+intro: Role&#58; UX Research Lead
 permalink: price-quote/
 ---
 
@@ -19,7 +19,6 @@ permalink: price-quote/
         <ul><li class="objectiveResearchList">To discover why users on the site order a price quote when the price breakdown is already present on the website</li>
           <li class="objectiveResearchList">To improve the price quotation feature, bringing it more inline with the new digital model</li>
       </ul>
-      <p>I led and conducted all research activities.</p>
       </div>
     </div>
   </div>
@@ -27,7 +26,7 @@ permalink: price-quote/
 </div>
 </div>
 
-<div class="page-content">
+<!-- <div class="page-content">
   <div class="wrapper">
     <div class="grid-display">
       <div class="row projectBody">
@@ -43,9 +42,9 @@ permalink: price-quote/
   </div>
 
 </div>
-</div>
+</div> -->
 
-<div class="page-content-alternative">
+<div class="page-content">
   <div class="wrapper">
     <div class="grid-display">
       <div class="row projectBody">
@@ -65,7 +64,7 @@ permalink: price-quote/
 
 <!-- ![ef finland wireframes](../assets/images/sales_journeyBluprint.jpeg){:class="full-image"} -->
 
-<div class="page-content">
+<div class="page-content-alternative">
 
   <div class="wrapper">
     <div class="grid-display">
@@ -90,7 +89,7 @@ permalink: price-quote/
 
 
 
-<div class="page-content-alternative">
+<div class="page-content">
   <div class="wrapper">
     <div class="grid-display">
       <div class="row projectBody">
@@ -110,7 +109,7 @@ permalink: price-quote/
 </div>
 </div>
 
-<div class="page-content">
+<div class="page-content-alternative">
   <div class="wrapper">
     <div class="grid-display">
       <div class="row projectBody">

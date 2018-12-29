@@ -1,8 +1,8 @@
 ---
 layout: project
-title: Customer journey mapping
+title: International research
 date: 2018
-intro: After researching and designing for a <a href="https://mattihicks.com/education-first">new digital model</a>, I was asked to conduct exit interviews focusing on the customer experience. I reframed the research ask and got stakeholder buy-in to instead trace the entire customer journey across two markets, as previous research indicated the upcoming product roadmap needed to consider all digital touchpoints for us to move forward in an impactful way. <br/><br/>For brevity, I've combined the two different markets for this case study as the methods used and process followed were similar.
+intro: After researching for a <a href="https://mattihicks.com/education-first">new digital model</a>, I identified the customer journeys across Spain and Finland. <br/><br/>For brevity, I've combined the two different markets for this case study as the methods used and process followed were similar.
 permalink: customer-journey/
 ---
 
@@ -51,7 +51,7 @@ permalink: customer-journey/
 </div>
 </div>
 
-<div class="page-content-alternative">
+<!-- <div class="page-content-alternative">
   <div class="wrapper">
     <div class="grid-display">
       <div class="row projectBody">
@@ -67,11 +67,11 @@ permalink: customer-journey/
   </div>
 
 </div>
-</div>
+</div> -->
 
-![ef finland wireframes](../assets/images/sales_journeyBluprint.jpeg){:class="full-image"}
+<!-- ![ef finland wireframes](../assets/images/sales_journeyBluprint.jpeg){:class="full-image"} -->
 
-<div class="page-content">
+<!-- <div class="page-content-alternative">
 
   <div class="wrapper">
     <div class="grid-display">
@@ -96,7 +96,7 @@ your next trip?</span></p>
     </div>
   </div>
 </div>
-</div>
+</div> -->
 
 
 

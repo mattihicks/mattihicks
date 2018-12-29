@@ -2,7 +2,7 @@
 layout: project
 title: EF Finland
 date: 2017 - 2018
-intro: I am currently working as a UX researcher & designer in EF's central creative studio, the global branding and product design team responsible for transforming the future of the company through business design initiatives. </br><br/>For EF Finland, I researched and designed an end-to-end journey where students are encouraged to discover great content that makes them excited to book a trip online.
+intro: I am currently working as a UX researcher in EF's central creative studio, the global product design team responsible for transforming the future of the company through research-driven design solutions. </br><br/>For EF Finland, I researched and designed an end-to-end journey where students are encouraged to discover great content that makes them excited to book a trip online.
 permalink: education-first/
 ---
 
