@@ -2,7 +2,7 @@
 layout: project
 title: International research
 date: 2018
-intro: After researching for a <a href="https://mattihicks.com/education-first">new digital model</a>, I identified the customer journeys across Spain and Finland for EF Languages Abroad, a company that sends students around the world to learn languages. <br/><br/>For brevity, I've combined the two different markets for this case study as the methods used and process followed were similar.
+intro: After researching for a <a href="https://mattihicks.com/education-first">new digital model</a>, I identified the customer journeys across multiple markets for EF Languages Abroad, a company that sends students abroad to learn languages.<br/><br/>Role&#58; UX Research Lead
 permalink: customer-journey/
 ---
 
@@ -20,7 +20,6 @@ permalink: customer-journey/
         <li class="objectiveResearchList">Map out the EF staff interactions throughout the EF customer journey</li>
         <li class="objectiveResearchList">Identify pain-points and design opportunities for the project moving forward</li>
       </ul>
-      <p>I led all activities for this research project, collaborating with a designer for some of the exercises as well as a field expert.</p>
       </div>
     </div>
   </div>
@@ -36,14 +35,14 @@ permalink: customer-journey/
        </div>
        <div class="col-8">
         <h2 class="projectTitle">Methods</h2>
-        <p>After working with stakeholders on the research objectives, I decided to utilize semi-structured interviews with the following sample groups to meet the research objectives:</p>
+<!--         <p>After working with stakeholders on the research objectives, I decided to utilize semi-structured interviews with the following sample groups to meet the research objectives:</p> -->
         <ul>
           <li>
-        Ten to fifteen <span style="font-family:GT-Walsheim-Medium">student interviews</span> with those between 16-18 years old who have experienced a language course abroad within the past 12 months</li>
-        <li class="objectiveResearchList">Four to five <span style="font-family:GT-Walsheim-Medium">parent interviews</span> who have booked and sent their child on a language course abroad within the past 12 months</li>
-        <li class="objectiveResearchList">Eight to ten <span style="font-family:GT-Walsheim-Medium">sales coordinator</span> and <span style="font-family:GT-Walsheim-Medium">customer service team interviews</span> who help customers throughout the language trip</li>
+        Ten to fifteen <span style="font-family:GT-Walsheim-Medium">student interviews</span> with those between 16-18 years old</li>
+        <li class="objectiveResearchList">Four to five <span style="font-family:GT-Walsheim-Medium">parent interviews</span></li>
+        <li class="objectiveResearchList">Eight to ten <span style="font-family:GT-Walsheim-Medium">sales coordinator</span> and <span style="font-family:GT-Walsheim-Medium">customer service team interviews</span></li>
       </ul>
-      <p>Along with my research team, I also conducted an affinity diagramming workshop and a sales blueprint exercise with marketing, sales, and customer service representatives to provide additional context to the interview data.</p>
+      <p>Along with a designer and field expert, I also conducted an affinity diagramming workshop and a sales blueprint exercise with marketing, sales, and customer service representatives to provide additional context to the interview data.</p>
       </div>
     </div>
   </div>

@@ -52,7 +52,7 @@ permalink: price-quote/
        </div>
        <div class="col-8">
         <h2 class="projectTitle">Methods</h2>
-        <p>After working with the project team and business leadership on the research objectives and context, I decided to <span style="font-family:GT-Walsheim-Medium">survey</span> people who have recently filled out a price quote. From this survey, I took the most recent (within the past week) and "data rich" responses and conducted a round of <span style="font-family:GT-Walsheim-Medium">phone and Skype interviews</span> to gather deeper information.</p>
+        <p>After working with the project team and business leadership on the research objectives and context, I decided to <span style="font-family:GT-Walsheim-Medium">survey</span> people who have recently filled out a price quote. From this survey, I took the most recent (within the past week) and "data rich" responses and conducted a round of <span style="font-family:GT-Walsheim-Medium">phone and Skype interviews</span> to gather more in-depth information.</p>
       </div>
     </div>
   </div>
@@ -64,7 +64,7 @@ permalink: price-quote/
 
 <!-- ![ef finland wireframes](../assets/images/sales_journeyBluprint.jpeg){:class="full-image"} -->
 
-<div class="page-content-alternative">
+<!-- <div class="page-content-alternative">
 
   <div class="wrapper">
     <div class="grid-display">
@@ -73,7 +73,6 @@ permalink: price-quote/
        </div>
        <div class="col-8">
         <h2 class="projectTitle">Surveys sent</h2>
- <!--        <h4 class="projectSectionTitle">1. Customer interviews</h4> -->
 <p>I sent a short 3-minute survey to over four hundred people who have recently (within the past two months) filled out a price quotation form. Here are a couple of questions I asked:</p>
 <p><span style="font-family:GT-Walsheim-Regular-Italic">Why did you fill out a form to get a price quote?</span></p>
 <p><span style="font-family:GT-Walsheim-Regular-Italic">Did you fill out a price quote before or after you looked browsed a destination page?</span></p> 
@@ -107,7 +106,7 @@ permalink: price-quote/
   </div>
 
 </div>
-</div>
+</div> -->
 
 <div class="page-content-alternative">
   <div class="wrapper">
@@ -116,7 +115,7 @@ permalink: price-quote/
        <div class="col-2">
        </div>
        <div class="col-8">
-        <h2 class="projectTitle">Next steps</h2>
+        <h2 class="projectTitle">Actions taken</h2>
         <p>As a result of this research, I collaborated with the product owner to plan a list of experiments to improve people's ability to get an exact price directly from the site, without decreasing lead generation. This includes:</p>
         <ul><li class="objectiveResearchList">New components on the destination page</li>
           <li class="objectiveResearchList">A/B testing CTA copy</li>
