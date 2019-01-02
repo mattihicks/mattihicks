@@ -38,9 +38,9 @@ permalink: customer-journey/
 <!--         <p>After working with stakeholders on the research objectives, I decided to utilize semi-structured interviews with the following sample groups to meet the research objectives:</p> -->
         <ul>
           <li>
-        Ten to fifteen <span style="font-family:GT-Walsheim-Medium">student interviews</span> with those between 16-18 years old</li>
-        <li class="objectiveResearchList">Four to five <span style="font-family:GT-Walsheim-Medium">parent interviews</span></li>
-        <li class="objectiveResearchList">Eight to ten <span style="font-family:GT-Walsheim-Medium">sales coordinator</span> and <span style="font-family:GT-Walsheim-Medium">customer service team interviews</span></li>
+        Ten to fifteen <span style="font-family:GT-Walsheim-Medium">student interviews</span> within each market</li>
+        <li class="objectiveResearchList">Four to five <span style="font-family:GT-Walsheim-Medium">parent interviews</span> within each market</li>
+        <li class="objectiveResearchList">Eight to ten <span style="font-family:GT-Walsheim-Medium">sales coordinator</span> and <span style="font-family:GT-Walsheim-Medium">customer service team interviews</span> within each market</li>
       </ul>
       <p>Along with a designer and field expert, I also conducted an affinity diagramming workshop and a sales blueprint exercise with marketing, sales, and customer service representatives to provide additional context to the interview data.</p>
       </div>
