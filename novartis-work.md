@@ -2,8 +2,24 @@
 layout: project
 title: Novartis
 date: 2013 - 2016
-intro: From March 2013 to August 2016 I led the UX research on a team responsible for improving collaboration among scientists within Novartis. <br/><br/>Projects&#58; Scientist profiles, Lab profiles, Activity stream, expertise discovery <br/><br/>Roles&#58; UX Researcher Lead / UX Designer
+intro: From March 2013 to August 2016 I led the UX research on a team responsible for improving collaboration among scientists within Novartis. <br/><br/>Projects&#58; Scientist profiles, Lab profiles, Activity stream, expertise discovery <br/><br/>Roles&#58; UX Research Lead / UX Designer
 ---
+
+
+<div class="page-content-alternative">
+  <div class="wrapper">
+    <div class="grid-display">
+      <div class="row projectBody">
+       <div class="col-12">
+<h1 class="questionProject">Team mission: To bring the simplest, most useful 
+collaboration experience to 
+every Novartis scientist working 
+in drug discovery.</h1>
+  </div>
+</div>
+</div>
+</div>
+</div>
 
 
  <div class="page-content-alternative">

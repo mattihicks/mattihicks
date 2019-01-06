@@ -12,11 +12,8 @@ permalink: price-quote/
   <div class="wrapper">
     <div class="grid-display">
       <div class="row projectBody">
-       <div class="col-2">
-       </div>
-       <div class="col-8">
-        <h2 class="projectTitle">Question</h2>
-        <p>Why are users on the site ordering a price quote when the price breakdown is already present on the website?</p>
+       <div class="col-12">
+        <h1 class="questionProject">Why are users ordering a price quote when the price breakdown is already present on the website?</h1>
 <!--         <ul><li class="objectiveResearchList">To discover why users on the site order a price quote when the price breakdown is already present on the website</li>
           <li class="objectiveResearchList">To improve the price quotation feature, bringing it more inline with the new digital model</li> -->
       </div>

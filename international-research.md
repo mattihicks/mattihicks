@@ -12,11 +12,9 @@ permalink: international-research/
   <div class="wrapper">
     <div class="grid-display">
       <div class="row projectBody">
-       <div class="col-2">
-       </div>
-       <div class="col-8">
-        <h2 class="projectTitle">Question</h2>
-        <p>What are the digital touchpoints for students and parents who book an EF language course and how do these touchpoints impact their EF experience?</p>
+       <div class="col-12">
+        <h1 class="questionProject">What are the digital touchpoints for students and parents who book an EF language course and how do these touchpoints impact their EF experience?</h1>
+        <p></p>
       </div>
     </div>
   </div>
@@ -33,9 +31,10 @@ permalink: international-research/
        <div class="col-8">
         <h2 class="projectTitle">Video as a result of this research</h2>
         <p>I created a video with a videographer showing what happens when parents send their child on an EF language trip. I conducted all the on-camera interviews, drew the storyboard, directed the editing changes, and pushed it live onto the product website:</p>
-        <div class="embed-container"><iframe src="https://player.vimeo.com/video/304586950?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
       </div>
     </div>
+    <div class="col-12">
+    <div class="embed-container"><iframe src="https://player.vimeo.com/video/304586950?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div></div>
   </div>
 
 </div>

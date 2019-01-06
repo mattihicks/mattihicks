@@ -99,14 +99,15 @@ permalink: ultrasound-work/
           <li class="objectiveResearchList">W. Brunette; <span style="font-family:GT-Walsheim-Medium">M. Hicks</span>; A. Hope; G. Ruddy; R. Anderson; B. Kolko. <a href="../assets/papers/IEEEGHTCUltrasound2011.pdf">"Reducing Maternal Mortality: An Ultrasound System for Village Midwives."</a> IEEE Global Humanitarian Technology Conference (GHTC), October 2011.</li>
         </ol>
 <p>
-         Ultimately, our work broadened the conversation in the medical community about the needs for simplified lower cost medical technology. GE, Philips, and other medical device companies became aware of our work. In addition, our HCI professor started <a href="http://www.shiftlabs.com/">Shift Labs</a>, a company focused on developing low cost medical technology.</p>
+         Our work broadened the conversation in the medical community about the needs for simplified lower cost medical technology. GE, Philips, and other medical device companies became aware of our work. In addition, our HCI professor started <a href="http://www.shiftlabs.com/">Shift Labs</a>, a company focused on developing low cost medical technology.</p>
         <p>For more about this work, please watch this TEDx presentation from Beth Kolko:</p>
       </div>
     </div>
+ <div class="col-12">
+  <div class="embed-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/1HqZXMXrJsg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div>
   </div>
 
 </div>
-<div class="embed-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/1HqZXMXrJsg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 </div>
 
 
