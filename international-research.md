@@ -3,7 +3,7 @@ layout: project
 title: International research
 date: 2018
 intro: I identified the customer journeys across multiple markets for EF Languages Abroad, a company that sends students abroad to learn languages.<br/><br/>Role&#58; UX Research Lead
-permalink: customer-journey/
+permalink: international-research/
 ---
 
 
@@ -15,10 +15,8 @@ permalink: customer-journey/
        <div class="col-2">
        </div>
        <div class="col-8">
-        <h2 class="projectTitle">Research objectives</h2>
-        <li class="objectiveResearchList">Discover the digital touchpoints for students and parents who book an EF language course and understand how these touchpoints impact their EF experience</li>
-<li class="objectiveResearchList">Map out the EF staff interactions throughout the EF customer journey</li>
-<li class="objectiveResearchList"> Identify pain-points and design opportunities for the project moving forward</li>
+        <h2 class="projectTitle">Question</h2>
+        <p>What are the digital touchpoints for students and parents who book an EF language course and how do these touchpoints impact their EF experience?</p>
       </div>
     </div>
   </div>
@@ -33,6 +31,23 @@ permalink: customer-journey/
        <div class="col-2">
        </div>
        <div class="col-8">
+        <h2 class="projectTitle">Video as a result of this research</h2>
+        <p>I created a video with a videographer showing what happens when parents send their child on an EF language trip. I conducted all the on-camera interviews, drew the storyboard, directed the editing changes, and pushed it live onto the product website:</p>
+        <div class="embed-container"><iframe src="https://player.vimeo.com/video/304586950?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+      </div>
+    </div>
+  </div>
+
+</div>
+</div>
+
+<div class="page-content-alternative">
+  <div class="wrapper">
+    <div class="grid-display">
+      <div class="row projectBody">
+       <div class="col-2">
+       </div>
+       <div class="col-8">
         <h2 class="projectTitle">Methods</h2>
 <!--         <p>After working with stakeholders on the research objectives, I decided to utilize semi-structured interviews with the following sample groups to meet the research objectives:</p> -->
         <ul>
@@ -41,7 +56,7 @@ permalink: customer-journey/
         <li class="objectiveResearchList">Four to five <span style="font-family:GT-Walsheim-Medium">parent interviews</span> within each market</li>
         <li class="objectiveResearchList">Eight to ten <span style="font-family:GT-Walsheim-Medium">sales coordinator</span> and <span style="font-family:GT-Walsheim-Medium">customer service team interviews</span> within each market</li>
       </ul>
-      <p>Along with a designer and field expert, I also conducted an affinity diagramming workshop and a sales blueprint exercise with marketing, sales, and customer service representatives to provide additional context to the interview data.</p>
+      <p>Along with a designer and field expert, I also conducted an affinity diagramming workshop and a sales blueprint exercise with marketing, sales, and customer service representatives.</p>
       </div>
     </div>
   </div>
@@ -98,16 +113,16 @@ your next trip?</span></p>
 
 
 
-<div class="page-content-alternative">
+<div class="page-content">
   <div class="wrapper">
     <div class="grid-display">
       <div class="row projectBody">
        <div class="col-2">
        </div>
        <div class="col-8">
-        <h2 class="projectTitle">Results and action steps</h2>
+        <h2 class="projectTitle">Results and impact</h2>
         <p>I can't disclose my findings for confidentiality reasons, but here's some of the outcomes and action items I took:</p>
-        <p>1. I created a <span style="font-family:GT-Walsheim-Medium">customer journey diagram with eight stages</span> that the customer experiences throughout their EF journey. We are currently building on this research to go deeper within the eight stages I defined. In addition to the stages, I also outlined opportunities to address discovered painpoints within each stage.</p>
+        <p>1. I created a <span style="font-family:GT-Walsheim-Medium">customer journey diagram with eight stages</span> that the customer experiences throughout their EF journey. We are currently building on this research to go deeper within the eight stages I defined.</p>
                 <h5>Customer journey (blurred to protect confidentiality)</h5>
         <img src="../assets/images/customer_journey_example.jpg"/>
         <p></p>
@@ -120,24 +135,5 @@ your next trip?</span></p>
 
 </div>
 </div>
-
-<div class="page-content">
-  <div class="wrapper">
-    <div class="grid-display">
-      <div class="row projectBody">
-       <div class="col-2">
-       </div>
-       <div class="col-8">
-        <h2 class="projectTitle">Video as a result of this research</h2>
-        <p>As an example of what it means to present more information and authenticity in our product, I created a video with a videographer for the Finnish market showing what happens when parents send their child on an EF language trip.</p> <p>I conducted all the on-camera interviews, drew the storyboard, directed the editing changes, and pushed it live onto the <a href="https://ef.fi/languagesabroad/#/">product website</a>:</p>
-      </div>
-    </div>
-  </div>
-
-</div>
-</div>
-
-<div class="embed-container"><iframe src="https://player.vimeo.com/video/304586950?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
-
 
 

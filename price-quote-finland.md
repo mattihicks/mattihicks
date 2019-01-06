@@ -15,10 +15,10 @@ permalink: price-quote/
        <div class="col-2">
        </div>
        <div class="col-8">
-        <h2 class="projectTitle">Research objectives</h2>
-        <ul><li class="objectiveResearchList">To discover why users on the site order a price quote when the price breakdown is already present on the website</li>
-          <li class="objectiveResearchList">To improve the price quotation feature, bringing it more inline with the new digital model</li>
-      </ul>
+        <h2 class="projectTitle">Question</h2>
+        <p>Why are users on the site ordering a price quote when the price breakdown is already present on the website?</p>
+<!--         <ul><li class="objectiveResearchList">To discover why users on the site order a price quote when the price breakdown is already present on the website</li>
+          <li class="objectiveResearchList">To improve the price quotation feature, bringing it more inline with the new digital model</li> -->
       </div>
     </div>
   </div>
@@ -115,12 +115,12 @@ permalink: price-quote/
        <div class="col-2">
        </div>
        <div class="col-8">
-        <h2 class="projectTitle">Actions taken</h2>
-        <p>As a result of this research, I collaborated with the product owner to plan a list of experiments to improve people's ability to get an exact price directly from the site, without decreasing lead generation. This includes:</p>
-        <ul><li class="objectiveResearchList">New components on the destination page</li>
+        <h2 class="projectTitle">Impact</h2>
+        <p>As a result of this research, I collaborated with the product owner to plan a list of experiments to improve people's ability to get an exact price directly from the site, without decreasing leads. This includes:</p>
+        <ul><li class="objectiveResearchList">New price component on the destination pages</li>
           <li class="objectiveResearchList">A/B testing CTA copy</li>
-          <li class="objectiveResearchList">A/B testing price quote form designs to decrease drop off rates</li></ul>
-        <p>This research also builds on other <a href="https://mattihicks.com/customer-journey">research efforts</a> which are trying to bring a more personable and authentic experience to the product. I am currently testing an chat bot, which is introduced by a video from one of our language consultants letting the customer know that they are available to help them at any time:</p>
+          </ul>
+        <p>This research also builds on other <a href="https://mattihicks.com/international-research">research efforts</a> which are trying to bring a more personable and authentic experience to the product. I am currently testing an chat bot, which is introduced by a video from one of our language consultants letting the customer know that they are available to help them at any time:</p>
         <br/>
       </div>
     </div>

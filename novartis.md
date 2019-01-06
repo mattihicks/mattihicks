@@ -2,8 +2,7 @@
 layout: project
 title: Novartis
 date: 2013 - 2016
-intro: From March 2013 to August 2016 I was a senior user experience researcher responsible for the research and design of social & collaboration technologies among scientists within Novartis.<br/><br/> Most of this work is under an NDA.
-permalink: novartis/
+intro: From March 2013 to August 2016 I led research on a team responsible for improving collaboration among scientists within Novartis. <br/><br/>Projects&#58; Scientist profiles, Lab profiles, Activity stream, Video channel <br/><br/>Roles&#58; Lead UX Researcher / UX Designer
 ---
 
 
@@ -14,13 +13,7 @@ permalink: novartis/
        <div class="col-2">
        </div>
        <div class="col-8">
-        <h2 class="projectTitle">Our team mission</h2>
-        <p></p>
-        <p>To bring the simplest, most useful 
-collaboration experience to 
-every Novartis scientist working 
-in drug discovery.</p>
-<p>My role: Lead user researcher, lead UX designer</p>
+<h2 class="projectTitle">Deliverables</h2>
   </div>
 </div>
 </div>
