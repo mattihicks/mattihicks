@@ -30,7 +30,7 @@ in drug discovery.</h1>
        </div>
        <div class="col-8">
 <h2 class="projectTitle">Deliverables</h2>
-<p>Based on a company-wide survey, interviews, and workshops I conducted, I developed a long and short term collaboration strategy along with the product manager and tech lead. The following projects are a direct result of this work.</p>
+<p>Based on a company-wide survey, interviews, and workshops I conducted, I developed a short- and long-term collaboration strategy along with the product manager and tech lead. The following projects are a direct result of this work.</p>
 <h3 class="spacingDeliverables">Expertise discovery report</h3>
 <p>Question: How can scientists find and share expertise more easily?</p>
 <p>Methods: log analysis, interviews, literature review</p>
@@ -47,7 +47,8 @@ in drug discovery.</h1>
 <img src="../assets/images/novartis_profiles.jpg"/>
   <p class="captionText">An HTML/CSS prototype I created and tested with scientists</p>
 
-<h3 class="spacingDeliverables">Future work</h3>
+<h3 class="spacingDeliverables">Future vision</h3>
+<p>Methods: Interviews and workshops</p>
 <img src="../assets/images/novartis_northernStar.jpg"/>
 <p class="captionText">A "northern star" prototype I created to help guide the work moving forward</p>
 

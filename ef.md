@@ -2,18 +2,30 @@
 layout: project
 title: EF Finland
 date: 2017 - 2018
-intro: I am currently leading research for EF's global product design team, responsible for transforming the future of the global company through research-driven design solutions. </br><br/>Roles&#58; UX Research Lead / UX Designer
-permalink: education-first/
+intro: I am currently leading research for EF's global product design team, responsible for transforming the future of the global company through research-driven design solutions. </br><br/>For EF Finland, I researched and designed an end-to-end journey where students are encouraged to discover great content that makes them excited to book a trip online.
+permalink: ef/
 ---
+
+<div class="page-content">
+
+  <div class="wrapper">
+    <div class="site-link"><a href="https://www.ef.fi/languagesabroad" target="_blank">Explore the site</a> </div>
+
+  </div>
+</div>
 
 <div class="page-content-alternative">
 
   <div class="wrapper">
     <div class="grid-display">
       <div class="row projectBody">
-       <div class="col-12">
-        <h1 class="questionProject">Research and design an end-to-end journey where students discover great content that makes them excited and informed enough to book a language course abroad online.</h1>
-        <p></p>
+       <div class="col-2">
+       </div>
+       <div class="col-8">
+        <h2 class="projectTitle">Context</h2>
+        <p>In 2016 the EF Finland website’s primary CTAs were focused on getting customers' contact information through a price quote or a brochure request. The sales person would then call the customer with the goal of helping them to book a language course abroad.</p>
+        <p>We were asked by senior leadership to develop a new digital model, where the website informs potential customers about the product with the primary focus of the user booking directly online. In addition, we were asked to focus on mobile.</p>
+        <p>As one of two UX designers and primary researcher, I was involved in every aspect of this project.</p>
       </div>
     </div>
   </div>
@@ -21,9 +33,7 @@ permalink: education-first/
 </div>
 </div>
 
-![ef finland wireframes](../assets/images/secondBoard.jpg){:class="full-image"}
-
-<div class="page-content-alternative">
+<div class="page-content">
   <div class="wrapper">
     <div class="grid-display">
       <div class="row projectBody">
@@ -41,7 +51,9 @@ permalink: education-first/
 </div>
 </div>
 
-<div class="page-content">
+![ef finland wireframes](../assets/images/secondBoard.jpg){:class="full-image"}
+
+<div class="page-content-alternative">
 
   <div class="wrapper">
     <div class="grid-display">
@@ -53,6 +65,7 @@ permalink: education-first/
         <p>Research was ongoing throughout the design process. Here are some of the decisions we made:</p>
         <h4 class="projectSectionTitle">1. Combining products, age group selection</h4>
         <p>The first biggest obstacle we encountered was that we had two different products with separate websites: independent travel and group travel. Within these products existed five different age groups. The company asked us to simplify the products digitally by combining them within one user flow.</p>
+        <p>We experimented with presenting the age selections on a splash page, within the flow directly after the homepage, or just before the booking flow on individual destination pages. During research we learned that users were most likely to book if content (pictures, descriptions) was tailored to them specifically. </p>
         <p>After testing and iterations, we decided to put the age group selection after the homepage but just before destinations are presented within the flow, so that the destinations shown are specifically for them, with content that is tailored for that age group.</p>
       </div>
     </div>
@@ -190,7 +203,7 @@ permalink: education-first/
 
 </div>
 
-<div class="page-content-alternative">
+<div class="page-content">
   <div class="wrapper">
     <div class="grid-display">
       <div class="row projectBody">
@@ -199,7 +212,7 @@ permalink: education-first/
        <div class="col-8">
         <h2 class="projectTitle">Impact</h2>
         <p>We have shifted the company paradigm of what makes an online experience successful: instead of asking potential customers for contact information through primary CTAs, the internal conversation has shifted to creating a content-rich website that promotes booking directly online. In addition, one year after launch, customers are booking twice as much online as they did in the previous year.</p>
-         <p>
+        <p>
         We are currently testing this new digital model in other markets.</p>
         <p><a href="https://www.ef.fi/languagesabroad" target="_blank">Explore the site</a></p>
       </div>
@@ -210,6 +223,5 @@ permalink: education-first/
 </div>
 
 ![ef finland mocks](../assets/images/Artboard_ef2.jpg){:class="full-image"}
-
 
 

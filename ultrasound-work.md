@@ -41,10 +41,10 @@ permalink: ultrasound-work/
 <!--         <p>After working with stakeholders on the research objectives, I decided to utilize semi-structured interviews with the following sample groups to meet the research objectives:</p> -->
         <ul>
           <li>
-        <span style="font-family:GT-Walsheim-Medium">Field studies</span> in the Isingiro District and Kampa, job shadowing with midwives in clinics</li>
+        <span style="font-family:GT-Walsheim-Medium">Field studies</span> in the Isingiro District and Kampala, job shadowing with midwives in clinics</li>
         <li class="objectiveResearchList"><span style="font-family:GT-Walsheim-Medium">Contextual inquiries</span> with radiologists in Seattle hospitals</li>
-        <li class="objectiveResearchList"><span style="font-family:GT-Walsheim-Medium">Interviews</span> with mothers to understand their experiences with prenatal care and ultrasound screenings</li>
-        <li class="objectiveResearchList"><span style="font-family:GT-Walsheim-Medium">Surveys</span> sent to midwives for feedback as the prototype progressed</li>
+        <li class="objectiveResearchList"><span style="font-family:GT-Walsheim-Medium">Interviews</span> with Ugandan mothers to understand their experiences with prenatal care and ultrasound screenings</li>
+        <li class="objectiveResearchList"><span style="font-family:GT-Walsheim-Medium">Surveys</span> sent to Ugandan midwives for feedback as the prototype progressed</li>
       </ul>
       </div>
     </div>
