@@ -19,7 +19,7 @@ permalink: ultrasound-work/
         <img src="../assets/images/midwife2.jpg" alt="uganda field work">
         <h2 class="projectTitle spacingDeliverables">Problem</h2>
         <p>Ultrasound is a safe and effective way to identify pregnancy complications. Unfortunately, ultrasound technology is scarce because of the high cost of the technology.</p>
-<p>For two years, I researched and designed a portable, low cost portable ultrasound device to help decrease maternal death rates in rural Uganda.</p>
+<p>For two years, I researched and designed for a portable, low cost portable ultrasound device to help decrease maternal death rates in rural Uganda.</p>
       </div>
     </div>
   
