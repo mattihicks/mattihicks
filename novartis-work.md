@@ -51,7 +51,7 @@ intro: From March 2013 to August 2016 I led the UX research on a team responsibl
        </div>
        <div class="col-8">
         <h2 class="projectTitle">Impact</h2>
-        <p>After evaluating the results of this work, we received much greater focus on social and collaboration within the division, with additional resources added to the product development team to follow through on the roadmap.</p>
+        <p>After evaluating the results of this work, we received much greater focus on social and collaboration within the division, with additional resources added to the product development team to follow through on the roadmap I helped define through research.</p>
       </div>
     </div>
   </div>
