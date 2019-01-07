@@ -2,7 +2,7 @@
 layout: project
 title: Surveys and interviews on a pricing CTA
 date: 2018
-intro: Role&#58; UX Research Lead
+intro: Understanding the quantitative "success" behind an important call-to-action button and how we can better present the price on the Education First website. <br/><br/>Role&#58; UX Research Lead
 permalink: price-quote/
 ---
 
@@ -13,7 +13,7 @@ permalink: price-quote/
     <div class="grid-display">
       <div class="row projectBody">
        <div class="col-12">
-        <h1 class="questionProject">Why are users ordering a price quote when the price breakdown is already present on the website?</h1>
+        <h1 class="questionProject">Why are users ordering a price quote when the price breakdown is already present on the EF Languages Abroad website?</h1>
 <!--         <ul><li class="objectiveResearchList">To discover why users on the site order a price quote when the price breakdown is already present on the website</li>
           <li class="objectiveResearchList">To improve the price quotation feature, bringing it more inline with the new digital model</li> -->
       </div>

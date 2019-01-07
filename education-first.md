@@ -113,7 +113,7 @@ permalink: education-first/
   </div>
   <div class="col-4 column-4-grid">
     <img src="../assets/images/bookingFlow/ILS_bookingStepTwo.jpg">
-    <p class="captionText">A traditional calendar view did not test well, as not all of our courses are available for all dates and classes start on Mondays. Therefore, a button date selection tested best</p>
+    <p class="captionText">A button date selection (from concept 3, above) tested best</p>
   </div>
   <div class="col-4 column-4-grid">
     <img src="../assets/images/bookingFlow/ILS_bookingStepThree.jpg">
@@ -123,7 +123,7 @@ permalink: education-first/
 <div class="row projectBuilt">
  <div class="col-4 column-4-grid">
   <img src="../assets/images/bookingFlow/ILS_bookingStepFour.jpg">
-  <p class="captionText">We have tried to visually highlight the most popular number of weeks by students, but the business prefers that all weeks are given equal weight </p>
+  <p class="captionText">User research testing indicates that the UI should visually highlight the most popular number of weeks by students</p>
 </div>
 <div class="col-4 column-4-grid">
   <img src="../assets/images/bookingFlow/ILS_bookingStepFive.jpg">
