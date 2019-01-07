@@ -48,7 +48,7 @@ in drug discovery.</h1>
   <p class="captionText">An HTML/CSS prototype I created and tested with scientists</p>
 
 <h3 class="spacingDeliverables">Future vision</h3>
-<p>Methods: Interviews and workshops</p>
+<p>Methods: Competitive analysis, interviews, and workshops</p>
 <img src="../assets/images/novartis_northernStar.jpg"/>
 <p class="captionText">A "northern star" prototype I created to help guide the work moving forward</p>
 
