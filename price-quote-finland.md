@@ -117,10 +117,17 @@ permalink: price-quote/
         <ul><li class="objectiveResearchList">New price component on the destination pages</li>
           <li class="objectiveResearchList">A/B testing CTA copy</li>
           </ul>
-        <p>This research also builds on other <a href="https://mattihicks.com/international-research">research efforts</a> which are trying to bring a more personable and authentic experience to the product. I am currently testing an chat bot, which is introduced by a video from one of our language consultants letting the customer know that they are available to help them at any time:</p>
-        <br/>
       </div>
     </div>
+
+   <div class="row projectBody">
+       <div class="col-2">
+       </div>
+       <div class="col-8">
+           <h4 class="projectTitle">Custom bot test</h4>
+            <p>This research also builds on other <a href="https://mattihicks.com/international-research">research efforts</a> which are trying to bring a more personable and authentic experience to the product. I am currently testing an chat bot, which is introduced by a video from one of our language consultants letting the customer know that they are available to help them at any time:</p>
+</div>
+</div>
           <div class="row projectBody">
        <div class="col-4">
         <img src="../assets/images/screenshot_customBot.png"/>

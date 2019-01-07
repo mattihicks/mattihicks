@@ -11,10 +11,10 @@ intro: From March 2013 to August 2016 I led the UX research on a team responsibl
     <div class="grid-display">
       <div class="row projectBody">
        <div class="col-12">
-<h1 class="questionProject">Team mission: To bring the simplest, most useful 
+<h1 class="questionProject">How do we bring the simplest, most useful 
 collaboration experience to 
 every Novartis scientist working 
-in drug discovery.</h1>
+in drug discovery?</h1>
   </div>
 </div>
 </div>
@@ -29,8 +29,8 @@ in drug discovery.</h1>
        <div class="col-2">
        </div>
        <div class="col-8">
-<h2 class="projectTitle">Deliverables</h2>
-<p>Based on a company-wide survey, interviews, and workshops I conducted, I developed a short- and long-term collaboration strategy along with the product manager and tech lead. The following projects are a direct result of this work.</p>
+<h2 class="projectTitle">A collection of deliverables</h2>
+<p>Based on a <span style="font-family:GT-Walsheim-Medium">company-wide survey</span>, <span style="font-family:GT-Walsheim-Medium">interviews</span>, and <span style="font-family:GT-Walsheim-Medium">workshops</span> I conducted, I developed a short- and long-term collaboration strategy along with the product manager and tech lead. The following projects are a direct result of this work.</p>
 <h3 class="spacingDeliverables">Expertise discovery report</h3>
 <p>Question: How can scientists find and share expertise more easily?</p>
 <p>Methods: log analysis, interviews, literature review</p>
@@ -67,7 +67,7 @@ in drug discovery.</h1>
        </div>
        <div class="col-8">
         <h2 class="projectTitle">Impact</h2>
-        <p>After evaluating the results of this work, we received much greater focus on social and collaboration within the division, with additional resources added to the product development team to follow through on the roadmap that I had helped define through research.</p>
+        <p>After evaluating the results of this work, our team received recognition from senior leadership on the importance of collaboration tools for drug discovery. Additional resources were added to the product development team to follow through on the roadmap that I had helped define through research.</p>
       </div>
     </div>
   </div>
