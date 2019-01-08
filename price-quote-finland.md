@@ -125,7 +125,7 @@ permalink: price-quote/
        </div>
        <div class="col-8">
            <h4 class="projectTitle">Custom bot test</h4>
-            <p>This research also builds on other <a href="https://mattihicks.com/international-research">research efforts</a> which are trying to bring a more personable and authentic experience to the product. I am currently testing an chat bot, which is introduced by a video from one of our language consultants letting the customer know that they are available to help them at any time:</p>
+            <p>I am currently testing a chat bot, which is introduced by a video from one of our language consultants letting the customer know that they are available to help them at any time. This research also builds on other <a href="https://mattihicks.com/international-research">research efforts</a> which are trying to bring a more personable and authentic experience to the product.</p>
 </div>
 </div>
           <div class="row projectBody">
