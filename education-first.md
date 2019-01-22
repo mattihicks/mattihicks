@@ -2,7 +2,7 @@
 layout: project
 title: EF Finland
 date: 2017 - 2018
-intro: I am currently leading research for EF's global product design team, responsible for transforming the future of the global company through research-driven design solutions. </br><br/>Roles&#58; UX Research Lead / UX Designer
+intro: I am currently leading research for EF's global product design team, responsible for transforming the future of the global company through research-driven design solutions. </br><br/>Roles&#58; Lead UX Researcher / Designer
 permalink: education-first/
 ---
 
@@ -22,6 +22,20 @@ permalink: education-first/
 </div>
 
 ![ef finland wireframes](../assets/images/secondBoard.jpg){:class="full-image"}
+
+<div class="page-content-alternative captionFullImage">
+  <div class="wrapper">
+    <div class="grid-display">
+      <div class="row projectBody">
+       <div class="col-12">
+
+  <p class="captionText">My sketches and wireframes from the early concepting phase</p>
+
+</div>
+</div>
+</div>
+</div>
+</div>
 
 <div class="page-content-alternative">
   <div class="wrapper">
