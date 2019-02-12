@@ -155,7 +155,7 @@ permalink: education-first/
 </div>
 <div class="col-4 column-4-grid">
   <img src="../assets/images/bookingFlow/stepNine.jpg">
-  <p class="captionText">I worked with the business so that users can reserve a course and cancel within two weeks - rather than directly book and be locked into an expensive trip</p>
+  <p class="captionText">Users can reserve a course and cancel within two weeks - rather than booking and being locked into an expensive trip</p>
 </div>
 <div class="col-4 column-4-grid">
   <img src="../assets/images/bookingFlow/ILS_bookingStepSeven.jpg">
