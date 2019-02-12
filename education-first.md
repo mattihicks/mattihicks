@@ -2,7 +2,7 @@
 layout: project
 title: EF Finland
 date: 2017 - 2018
-intro: I am currently leading research for EF's global product design team, responsible for transforming the future of the global company through research-driven design solutions. </br><br/>Roles&#58; Lead UX Researcher / Designer
+intro: I am currently leading research for a product team responsible for transforming the digital future of EF Languages Abroad through research-driven design solutions. </br><br/>Roles&#58; Lead UX Researcher / Designer
 permalink: education-first/
 ---
 
