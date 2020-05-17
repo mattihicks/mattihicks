@@ -125,7 +125,7 @@ permalink: price-quote/
        </div>
        <div class="col-8">
            <h4 class="projectTitle">Custom bot test</h4>
-            <p>I am currently testing a chat bot, which is introduced by a video from one of our language consultants. This research also builds on other <a href="https://mattihicks.com/international-research">research efforts</a> which are trying to bring a more personable experience to the product.</p>
+            <p>One of the experiments involved testing a chat bot, which I implemented and was introduced by a video from a language consultant. This research also builds on other <a href="https://mattihicks.com/international-research">research efforts</a> which are trying to bring a more personable experience to the product.</p>
             <p>In the video below, the language consultant says (in Finnish): <span style="font-family:GT-Walsheim-Regular-Italic">"Hello, my name is Daniel. Would you like a personalized price quote? I am here to help if you need anything"</span> and then the bot leads the user through a price quote request.</p>
 </div>
 </div>
